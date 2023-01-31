@@ -14,11 +14,11 @@
     - Ottaviano - Marco Antonio - Lepido (44-27)
 
 ## Capitolo 14
-- [I Gracchi]()
-- [I problemi sociali di Roma nei secoli II e I a.C.]()
-- [Gaio Mario]()
-- [La guerra Sociale]()
-- [Lucio Cornelio Silla]()
+- [I Gracchi](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/repubblica.md#i-gracchi)
+- [I problemi sociali di Roma nei secoli II e I a.C.](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/repubblica.md#i-problemi-sociali-di-roma-nei-secoli-ii-e-i-ac)
+- [Gaio Mario](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/repubblica.md#gaio-mario)
+- [La guerra Sociale](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/repubblica.md#la-guerra-sociale)
+- [Lucio Cornelio Silla](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/repubblica.md#lucio-cornelio-silla)
 
 ### I gracchi
 Tiberio Gracco (tribuno della plebe - 132 a.c.) propone un limite alla quantità di ager publicus che ogni cittadino può avere in usufrutto: 500 iugeri + 250 per il primo figlio maschio + altri 250 per il secondo figlio maschio, gli altri lottizzati e distribuiti ai nullatenenti. Gli aristocratici lo ammazzano (non volevano cedere l'ager publicus).
@@ -54,10 +54,10 @@ Campagne militari:
 Dopo la guerra sociale Silla fa attaccare nel foro di tutte le città le liste di proscrizione. Chi compare in queste liste può essere ucciso senza conseguenze, il ‘bottino’ (i beni dell’assassinato) veniva diviso 50 e 50. 50 allo stato e 50 a chi lo uccideva.
 
 ## Capitolo 15
-- [Un epoca di guerre civili]()
-- [Gneo Pompeo]()
-- [Cesare]()
-- [Verso il Principato]()
+- [Un epoca di guerre civili](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/repubblica.md#un-epoca-di-guerre-civili)
+- [Gneo Pompeo](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/repubblica.md#gneo-pompeo)
+- [Cesare](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/repubblica.md#cesare)
+- [Verso il Principato](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/repubblica.md#verso-il-principato)
 
 ### Un epoca di guerre civili
 Cesare vuole prendere il potere che ha Pompeo, si fa assegnare la guerra in Gallia e poi lo sfida militarmente, poi vince.
