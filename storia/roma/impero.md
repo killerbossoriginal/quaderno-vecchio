@@ -1,9 +1,9 @@
 # Impero
 
 ## Legenda
-- [Imperatori]()
+- [Imperatori e Governi](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#imperatori)
 
-## Imperatori
+## Imperatori e Governi
 
 1.	Giulio-Claudia (49-44 -> 27-0-68)
     - Gaio Giulio Cesare Augusto(49-44)
@@ -33,10 +33,10 @@
     - Caracalla (211-217)
     - Elagabalo (218-222)
     - Alessandro Severo (222-235)
-6. [Anarchia Militare (235-284)]()
+6. [Anarchia Militare (235-284)](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#lanarchia-militare-235-284)
     - Aureliano (270-275)
-    - [Diocleziano (284-305)]()
-7. [La tetrarchia]()
+    - [Diocleziano (284-305)](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#diocleziano-284-305)
+7. [La tetrarchia](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#tetrarchia)
     - Diocleziano & Massimiano
 
 ## L'anarchia Militare (235-284)
@@ -53,7 +53,7 @@ Anarchia militare
 
 Il senato in tutto questo aveva perso potere, ora poteva solo più legittimare, come fece con molti imperatori
 
-## Diocleziano
+## Diocleziano (284-305)
 
 ### Tetrarchia
 Nel 293, per risolvere il problema della successione e il problema della gestione del territorio ridivide il territorio romano in 2 grandi aree, la parte orientale e la parte occidentale, a loro volta divise in due. Ogniuna di queste 4 aree aveva una capitale diversa, tutte sul confine, per garantire un pronto intervento, togliendo il potere a Roma. Tutte e 4 le maxi-aree erano poi divise in 12 diocesi, che raggruppavano le oltre 100 provincie.
