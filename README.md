@@ -1,3 +1,4 @@
 # Quaderno
 
-[Matematica](./matematica/matematica.md)
+- [Matematica](./matematica/matematica.md)
+- [Fisica](./fisica/fisica.md)

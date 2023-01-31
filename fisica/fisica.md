@@ -1,7 +1,9 @@
 # Fisica
-
+- [Legenda](https://github.com/killerbossoriginal/quaderno/blob/main/fisica/fisica.md#teoria)
+- [Esercizi](https://github.com/killerbossoriginal/quaderno/blob/main/fisica/fisica.md#esercizi)
 ## Teoria
-
+### Legenda
+- [Grandezze](https://github.com/killerbossoriginal/quaderno/blob/main/fisica/fisica.md#grandezze)
 ### Grandezze 
 
 - 10^-16 = Quark
@@ -29,6 +31,12 @@
 - 10^25 = Mappa delle galassie esterne
 
 ## Esercizi
+### Legenda
+- pagina 277
+    - [esercizio 21](https://github.com/killerbossoriginal/quaderno/blob/main/fisica/fisica.md#es-21-pag-277)
+- pagina 280
+    - [esercizio 38](https://github.com/killerbossoriginal/quaderno/blob/main/fisica/fisica.md#es-38-pag-280)
+    - [esercizio 39](https://github.com/killerbossoriginal/quaderno/blob/main/fisica/fisica.md#es-43-pag-280)
 ### Es 21 pag 277
 a.	Il corpo A si avvicina al punto di osservazione e il corpo B si allontana
 b.	Nel momento 4 i due corpi sono alla stessa distanza
