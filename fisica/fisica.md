@@ -1,5 +1,5 @@
 # Fisica
-- [Legenda](https://github.com/killerbossoriginal/quaderno/blob/main/fisica/fisica.md#teoria)
+- [Teoria](https://github.com/killerbossoriginal/quaderno/blob/main/fisica/fisica.md#teoria)
 - [Esercizi](https://github.com/killerbossoriginal/quaderno/blob/main/fisica/fisica.md#esercizi)
 ## Teoria
 ### Legenda
