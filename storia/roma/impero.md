@@ -1,7 +1,7 @@
 # Impero
 
 ## Legenda
-- [Imperatori e Governi](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#imperatori)
+- [Imperatori e Governi](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#imperatori-e-governi)
 
 ## Imperatori e Governi
 
