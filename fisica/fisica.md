@@ -1,10 +1,15 @@
 # Fisica
+
 - [Teoria](https://github.com/killerbossoriginal/quaderno/blob/main/fisica/fisica.md#teoria)
 - [Esercizi](https://github.com/killerbossoriginal/quaderno/blob/main/fisica/fisica.md#esercizi)
+
 ## Teoria
+
 ### Legenda
+
 - [Grandezze](https://github.com/killerbossoriginal/quaderno/blob/main/fisica/fisica.md#grandezze)
-### Grandezze 
+
+### Grandezze
 
 - 10^-16 = Quark
 - 10^-15 = Neutroni
@@ -31,20 +36,26 @@
 - 10^25 = Mappa delle galassie esterne
 
 ## Esercizi
+
 ### Legenda
+
 - pagina 277
-    - [esercizio 21](https://github.com/killerbossoriginal/quaderno/blob/main/fisica/fisica.md#es-21-pag-277)
+  - [esercizio 21](https://github.com/killerbossoriginal/quaderno/blob/main/fisica/fisica.md#es-21-pag-277)
 - pagina 280
-    - [esercizio 38](https://github.com/killerbossoriginal/quaderno/blob/main/fisica/fisica.md#es-38-pag-280)
-    - [esercizio 39](https://github.com/killerbossoriginal/quaderno/blob/main/fisica/fisica.md#es-43-pag-280)
+  - [esercizio 38](https://github.com/killerbossoriginal/quaderno/blob/main/fisica/fisica.md#es-38-pag-280)
+  - [esercizio 39](https://github.com/killerbossoriginal/quaderno/blob/main/fisica/fisica.md#es-43-pag-280)
+
 ### Es 21 pag 277
-a.	Il corpo A si avvicina al punto di osservazione e il corpo B si allontana
-b.	Nel momento 4 i due corpi sono alla stessa distanza
+
+a. Il corpo A si avvicina al punto di osservazione e il corpo B si allontana
+b. Nel momento 4 i due corpi sono alla stessa distanza
 
 ### Es 38 pag 280
-a.	Nei primi 2 secondi il corpo sta fermo alla stessa distanza, tra il 2 e il 4 si sposta di un metro verso il punto di osservazione e poi di 3 metri
-b.	0.6 m/s
-c.	1 m/s
+
+a. Nei primi 2 secondi il corpo sta fermo alla stessa distanza, tra il 2 e il 4 si sposta di un metro verso il punto di osservazione e poi di 3 metri
+b. 0.6 m/s
+c. 1 m/s
 
 ### Es 43 pag 280
+
 0.12 S
