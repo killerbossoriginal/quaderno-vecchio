@@ -35,6 +35,7 @@
     - Elagabalo (218-222)
     - Alessandro Severo (222-235)
 6. [Anarchia Militare (235-284)](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#lanarchia-militare-235-284)
+    - [Decio (249-251)]()
     - Aureliano (270-275)
     - [Diocleziano (284-305)](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#diocleziano-284-305)
 7. [La tetrarchia](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#tetrarchia)
@@ -55,6 +56,10 @@ Anarchia militare
 - diocleziano pone fine all’anarchia (284)
 
 Il senato in tutto questo aveva perso potere, ora poteva solo più legittimare, come fece con molti imperatori
+
+### Decio (249-251)
+
+Fece ferocissime persecuzioni contro i cristiani
 
 ## Diocleziano (284-305)
 
