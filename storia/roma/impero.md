@@ -6,13 +6,13 @@
 
 ## Imperatori e Governi
 
-1. Giulio-Claudia (49-44 -> 27-0-68)
+1. Giulio-Claudia (49-44 || 27-0-68)
     - Gaio Giulio Cesare Augusto(49-44)
     - Gaio Giulio Cesare Ottaviano Augusto (27-0-14)
     - Tiberio (14-37)
     - Caligola (37-41)
     - Claudio (41-54)
-    - Nerone (54-68)
+    - [Nerone (54-68)](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#nerone-54-68)
 2. l’anno 4 imperatori (69)
     - Galba (69)
     - Otone (69)
@@ -40,6 +40,25 @@
     - [Diocleziano (284-305)](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#diocleziano-284-305)
 7. [La tetrarchia](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#tetrarchia)
     - Diocleziano & Massimiano
+8. [Costantino I](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#costantino-i)
+
+## Nerone (54-68)
+
+Fece persecuzioni contro i cristiani
+
+## Il cristianesimo
+
+Il cristianesimo ha sempre avuto un grande legame con l'ebraismo, in quanto:
+
+- Gesu' era ebreo
+- L'antico testamento cristiano è lo stesso dell ebraismo
+- Gli apostoli cercavano soprattutto di convertire gli ebrei in cristiani visto
+- Gli ebrei cercavano il messia e Gesu' si è proposto come tale
+
+Il cristianesimo si diffuse molto nell'impero romano in quanto, con le varie ribellioni (nella giudea) soppresse, facevano disperdere ebrei e cristiani ingiro per le altre città.
+Il cristianesimo si diffuse sopratutto nelle città perché ai contadini non interessava troppo cambiare.
+Il cristianesimo si diffuse molto in grandi città come roma, ovviamente Gerusalemme, Atene, Alessandria etc e nel territorio si diffuse soprattutto nell'odierna turchia.
+Le persecuzioni avvennero soprattutto sotto Nerone, Adriano, Decio e Diocleziano. Finirono soltanto con l'editto di Milano, emesso sotto il governo di Costantino.
 
 ## L'anarchia Militare (235-284)
 
@@ -55,7 +74,7 @@ Anarchia militare
 - tanto che a un certo punto catturano e uccidono Valeriano (imperatore di quel tempo)
 - diocleziano pone fine all’anarchia (284)
 
-Il senato in tutto questo aveva perso potere, ora poteva solo più legittimare, come fece con molti imperatori
+Il senato in tutto questo aveva perso potere, ora poteva solo più legittimare, come fece con molti imperatori.
 
 ### Decio (249-251)
 
@@ -68,3 +87,7 @@ Fece ferocissime persecuzioni contro i cristiani
 Nel 293, per risolvere il problema della successione e il problema della gestione del territorio ridivide il territorio romano in 2 grandi aree, la parte orientale e la parte occidentale, a loro volta divise in due. Ogniuna di queste 4 aree aveva una capitale diversa, tutte sul confine, per garantire un pronto intervento, togliendo il potere a Roma. Tutte e 4 le maxi-aree erano poi divise in 12 diocesi, che raggruppavano le oltre 100 provincie.
 Le 4 capitali di queste maxi-aree erano: **Milano**, **Nicomedia**, *Treviri* e *Sirmio*. I primi tetrarchi ovvero **Domiziano** e **Massimiano** sono i 2 **augusti**, chi ha veramente il potere. Gli altri 2, chiamati *cesari* prenderanno il posto dei 2 augusti alla loro morte o dimissioni.
 Domiziano abdica e fa abdicare Massimiano per vedere se il meccanismo funziona, purtroppo è un fallimento.
+
+## Costantino I (306-337)
+
+
