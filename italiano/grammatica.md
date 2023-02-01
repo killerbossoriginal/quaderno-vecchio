@@ -47,3 +47,35 @@
     - è lenta: predicato nominale
     - nell'organizzare: limitazione
     - questa raccolta: oggetto + attributo
+- Quando andiamo al mare o in campeggio, la mamma è un vigile, si guarda intorno, e ci dice, che dobbiamo raccogliere tutti i rifiuti, anche quelli che sono stati abbandonati dagli incivili
+  - Quando andiamo al mare o in campeggio
+    - Quando andiamo: predicato verbale
+    - al mare o in campeggio: moto a luogo
+    - noi: soggetto sottointeso
+  - la mia mamma è un vigile
+    - la mia mamma: sogggetto
+    - è un vigile: predicato nominale
+  - si guarda intorno
+    - si guarda: predicato verbale
+    - lei: soggetto sottointeso
+    - intorno: luogo
+  - e ci dice
+  - che dobbiamo raccogliere tutti i rifiuti
+    - che dobbiamo raccogliere: predicato verbale
+    - tutti i rifiuti: oggetto
+  - che sono stati abbandonati dagli incivili
+    - sono stati abbandonati: predicato verbale
+    - dagli incivili: agente
+- Questi comportamenti sono piccole cose, ma se tutti le facessero, forse l'ambiente tirerebbe un sospiro di sollievo.
+  - Questi comportamenti sono piccole cose
+    - Questi comportamenti: soggetto
+    - sono piccole cose: predicato nominale
+  - ma se tutti le facessero
+    - ma se tutti: soggetto
+    - facessero: predicato verbale
+    - le: oggetto
+  - forse l'ambiente tirerebbe un sospiro di sollievo
+    - forse l'ambiente: soggetto
+    - tirerebbe: predicato verbale
+    - un sospiro: oggetto
+    - di sollievo: specificazione
