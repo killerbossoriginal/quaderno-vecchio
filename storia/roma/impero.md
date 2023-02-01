@@ -21,13 +21,13 @@
 3. Flavi (69-96)
     - -Vespasiano (69-79)
     - Tito (79-81)
-    - Domiziano (81-96)
+    - [Domiziano (81-96)](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#domiziano-81-96)
 4. Antonini (96-192)
     - Nerva (96-98) // Non del tutto ‘antonino’
-    - Traiano (98-117)
+    - [Traiano (98-117)](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#traianp-98-117)
     - Adriano (117-138)
     - Antonino Pio (138-161)
-    - Marco Aurelio (161-180)
+    - [Marco Aurelio (161-180)](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#marco-aurelio-161-180)
     - Commodo (180-192)
 5. Severi (193-235)
     - Settimio Severo (193-211)
@@ -42,11 +42,22 @@
     - Diocleziano & Massimiano
 8. [Costantino I (306-337)](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#costantino-i-306-337)
 
-## Nerone (54-68)
+## La religione Imperiale
 
-Fece persecuzioni contro i cristiani
+All'inizio si venerava solo la triade capitolina (Giove, Giunone e Minerva), con l'avvento di imperatori, che volevano sistemare l'impero in modo che somigliasse agli imperi orientali si iniziò a venerare l'imperatore.
+Il primo ad essere venerato, da morto, è stato Cesare, divinizzato dal figlio Ottaviano.
+Durante il regno di Caligola, Nerone, Domiziano e altri si proponevano come imperatori e divinità. Una figura simile al faraone egizio.
+Molto accentuato il culto della divinità fù sotto il dominio di Commodo, che si metteva nei panni di ercole, e Elagabalo, che prendeva il nome da una divinità medio-orientale.
 
-## Il cristianesimo
+### La figura di Gesù e il cristianesimo
+
+Gesù, personaggio storicamente accettato, nacque a Betlemme di Giudea, sotto Augusto, per convenzione nell'anno zero, data che dovrebbe essere anticipata di 6-7 anni e morì crocifisso ("per noi e per tutti...") sotto Ponzio Pilato. Altro personaggio storico che effettivamente era governatore di Giudea ai tempi di Tiberio, nel 30d.C.
+Fù condannato a morte, e non essendo un cittadino romano, per crocifissione (i cittadini venivano condannati per decapitazione) perchè aveva infastidito con le sue prediche sia il clero ebraico che il governo romano.
+I sacerdoti lo accusavano di bestemmia in quanto si proclamava figlio di dio, e i Romani erano preoccupati dalle allusioni nei suoi discorsi al regno di dio.
+
+Importanti per il cristianesimo furono i discepoli, che diffonsero la religione. Ricordiamo in particolare Pietro, che arrivò fino a roma. Un importante cristiano fu Paolo di Tarso, cittadino romani di origine ebraica convertito al cristianesimo. La tradizione li vede entrambi martiri a Roma sotto il governo di Nerone.
+
+Durante la storia romana vennero assimilate molte religioni e culture, importante quella greca e quella egizia
 
 Il cristianesimo ha sempre avuto un grande legame con l'ebraismo, in quanto:
 
@@ -63,6 +74,22 @@ Le persecuzioni avvennero soprattutto sotto Nerone, Adriano, Decio e Diocleziano
 Molti cristiani vennero accusati di cannibalismo (Prendete e mangiatene tutti, questo è il corpo di cristo, offerto in sacrificio per voi...), liberta' sessuale.
 
 Vennero odiati dai romani perchè il cristianesimo diffondeva l'idea della pace (in contrasto con un impero fondato sulla guerra), voleva equiparare tutte le anime, mettere allo stesso livello un senatore, e addirittura l'imperatore, allo stesso livello degli schiavi.
+
+## Nerone (54-68)
+
+Accusa i cristiani dell'incendio di roma nel 64 d.C.
+
+## Domiziano (81-96)
+
+Contrasta i cristiani perché considera il loro atteggiamento superstizioso
+
+## Traiano (98-117)
+
+Tollera i cristiani purchè onorino l'imperatore
+
+## Marco Aurelio (161-180)
+
+Perseguita violentemente i cristiani a Lugdunum (Gallia, oggi Lione) nel 177
 
 ## L'anarchia Militare (235-284)
 
@@ -82,13 +109,15 @@ Il senato in tutto questo aveva perso potere, ora poteva solo più legittimare, 
 
 ### Decio (249-251)
 
-Fece ferocissime persecuzioni contro i cristiani
+Fece ferocissime persecuzioni contro tutti i monoteisti, e si accanì soprattutto sui cristiani. Egli impose un solenne sacrificio agli dei tradizionali, in assenza del quale sarebbero stati condannati a morte.
+Tutti quelli morti perché non volevano tradire la fede erano chiamati martiri e godevano (*da morti*) di un grandissimo prestigio
 
 ## Diocleziano (284-305)
 
 Diocleziano fu l'ultimo imperatore nell'anarchia militare.
 nel 293 introdusse la [Tetrarchia](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#tetrarchia).
 Nel 299 abdica per veder se funziona questo nuovo meccanismo, scopre che non funziona.
+Nel 303 egli con un editto chiuse i luoghi di culto cristiani, confisco i beni della Chiesa e limitò la libertà di associazione dei cristiano.
 Muore nel 306.
 
 ### Tetrarchia
