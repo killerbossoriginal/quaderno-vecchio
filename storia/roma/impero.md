@@ -35,7 +35,7 @@
     - Elagabalo (218-222)
     - Alessandro Severo (222-235)
 6. [Anarchia Militare (235-284)](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#lanarchia-militare-235-284)
-    - [Decio (249-251)]()
+    - [Decio (249-251)](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#decio-249-251)
     - Aureliano (270-275)
     - [Diocleziano (284-305)](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#diocleziano-284-305)
 7. [La tetrarchia](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#tetrarchia)
