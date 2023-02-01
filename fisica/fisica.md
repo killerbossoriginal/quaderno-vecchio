@@ -5,8 +5,6 @@
 
 ## Teoria
 
-### Legenda
-
 - [Grandezze](https://github.com/killerbossoriginal/quaderno/blob/main/fisica/fisica.md#grandezze)
 
 ### Grandezze
@@ -37,7 +35,7 @@
 
 ## Esercizi
 
-### Legenda
+Legenda
 
 - pagina 277
   - [esercizio 21](https://github.com/killerbossoriginal/quaderno/blob/main/fisica/fisica.md#es-21-pag-277)
