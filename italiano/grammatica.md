@@ -1,0 +1,49 @@
+# Grammatica
+
+## Analisi Logica
+
+- Oggi tutti parlano di rispetto dell'ambiente, ma pochi lo sentono come un impegno personale.
+  - Oggi tutti parlano di rispetto dell'ambiente
+    - Oggi: tempo
+    - tutti: soggetto
+    - parlano: predicato verbale
+    - di rispetto: argomento
+    - dell'ambiente: specificazione
+  - ma pochi lo sentono come un impegno personale
+- Facciamo qualche semplicissimo esempio.
+  - Facciamo: predicato verbale
+  - noi: soggetto sottointeso
+  - qualche semplicissimo esempio: oggetto + attributi
+- I rifiuti sono tanti e le discariche sono un problema?
+  - I rifiuti sono tanti
+    - I  rifiuti: soggetto
+    - sono tanti: predicato nominale
+  - e le discariche sono un problema?
+    - e le discariche: soggetto
+    - sono un problema: predicato nominale
+- E io cosa posso fare?
+  - E io: soggetto
+  - cosa: oggetto
+  - posso fare: predicato verbale
+- Mia madre è uscita proprio ora per acquisti con una borsa piuttosto grande perché la mia mamma è decisa: rifiuterà plastiche e sacchetti vari e infilerà tutto nella sua capace borsa
+  - Mia madre è uscita per acquisti con una borsa piuttosto grande
+    - Mia madre: soggetto + attributo
+    - è uscita: predicato verbale
+    - proprio ora: complemento di tempo
+    - con una borsa piuttosto grande: unione + attributo
+  - perché la mia mamma é decisa
+    - perché la mia mamma: soggetto
+    - é decisa: predicato nominale
+  - rifiuterà plastiche e sacchetti vari
+    - rifiuterà: predicato verbale
+    - plastiche e sacchetti vari: oggetto
+    - lei, mia madre: soggetto sottointeso
+- E protesta quando l'amministrazione comunale è lenta nell'organizzare questa raccolta.
+  - E protesta
+    - Lei: soggetto
+    - protesta: predicato verbale
+  - quando l'amministrazione comunale è lenta nell'organizzare questa raccolta
+    - quando l'amministrazione comunale: soggetto + attributo
+    - è lenta: predicato nominale
+    - nell'organizzare: limitazione
+    - questa raccolta: oggetto + attributo
