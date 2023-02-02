@@ -35,7 +35,22 @@
     - Elagabalo (218-222)
     - Alessandro Severo (222-235)
 6. [Anarchia Militare (235-284)](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#lanarchia-militare-235-284)
-    - [Decio (249-251)](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#decio-249-251)
+    - Massimino il Trace (235-244)
+    - Gordiani (22 marzo 238 - 27 aprile 238)
+        - Gordiano I (22 marzo 238 - 27 aprile 238)
+        - Gordiano II (22 marzo 238 - 12 aprile 238)
+        - Gordiano III (30 aprile 238 - 11 febbraio 244)
+    - Pupieno (30 aprile 238 - 11 luglio 238)
+    - Balbino (30 aprile 238 - 11 luglio 238)
+    - Filippo l'Arabo (11 febbraio 244 - 18 maggio 249)
+    - Filippo II (9 aprile 247 - 26 maggio 249)
+    - Deci (31 maggio 249 - )
+        - [Decio (31 maggio 249 - 1 luglio 251)](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#decio-249-251)
+        - Erennio Etrusco (251 - 1 luglio 251)
+        - Ostiliano (1 luglio 251 - 6 novembre 251) (co-augusto)
+        - Volusiano (6 novembre 251 - 14 agosto 253) (co-augusto)
+        - Emiliano (14 agosto 253 - 23 settembre 253) (Governatore della mesia inferiore)
+    - Treboniano Gallo (1 luglio 251 - 14 agosto 253)
     - Aureliano (270-275)
     - [Diocleziano (284-305)](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#diocleziano-284-305)
 7. [La tetrarchia](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#tetrarchia)
@@ -92,11 +107,6 @@ Tollera i cristiani purchè onorino l'imperatore
 Perseguita violentemente i cristiani a Lugdunum (Gallia, oggi Lione) nel 177
 
 ## L'anarchia Militare (235-284)
-
-Tra il 200 e il 300
-Diffusione del cristianesimo
-Grandi persecuzioni (Decio, Diocleziano)
-Anarchia militare
 
 - inizia con la fine dei primi dei severi, (235)
 - Aureliano costruisce una nuova cinta muraria a Roma
