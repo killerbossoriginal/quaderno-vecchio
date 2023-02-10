@@ -48,3 +48,54 @@ Questa poesia la scrive poco prima dell'inizio della prima guerra mondiale (infa
 > - Riga 5-6: Per la miserabile giovinezza
 > - Riga 13-14: Sospeso ci fosse il fiato
 > - Riga 22-23: Perduto ha la voce la sirena del mondo
+
+# Mario Luzi
+## Il pianto sentito piangere
+Il pianto sentito piangere
+
+nella camera contigua
+
+di notte
+
+nello strampalato albergo
+
+poi dovunque
+
+dovunque
+
+nel buio danubiano
+> Connotativo
+
+e nel finimondo di colori
+> Connotativo: finimondo di colori
+
+di ogni possibile orizzonte
+> Connotativo: possibile orizzonte
+
+dilagando
+
+oltre tutti i divisori
+
+delle epoche
+
+delle lingue
+> Connotativo: i divisori (pareti) delle epoche e delle lingue
+
+
+sentito bene sentito forte
+
+nel suo forte rintocco di eptacordio
+
+e rimesso nel fodero di nebbia
+
+del sonno
+> Connotativo: fodero di nebbia del sonno
+
+e della non coscienza
+
+riposto nel buio nascondiglio
+
+del sapere non voluto sapere
+> Connotativo Buio nascondiglio non voluto sapare
+
+fino a quando?
