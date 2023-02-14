@@ -2,7 +2,7 @@
 
 ## Legenda
 
-- [Imperatori e Governi](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#imperatori-e-governi)
+- [Imperatori e Governi](#imperatori-e-governi)
 
 ## Imperatori e Governi
 
@@ -12,7 +12,7 @@
     - Tiberio (14-37)
     - Caligola (37-41)
     - Claudio (41-54)
-    - [Nerone (54-68)](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#nerone-54-68)
+    - [Nerone (54-68)](#nerone-54-68)
 2. l’anno 4 imperatori (69)
     - Galba (69)
     - Otone (69)
@@ -21,20 +21,20 @@
 3. Flavi (69-96)
     - -Vespasiano (69-79)
     - Tito (79-81)
-    - [Domiziano (81-96)](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#domiziano-81-96)
+    - [Domiziano (81-96)](#domiziano-81-96)
 4. Antonini (96-192)
     - Nerva (96-98) // Non del tutto ‘antonino’
-    - [Traiano (98-117)](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#traianp-98-117)
+    - [Traiano (98-117)](#traiano-98-117)
     - Adriano (117-138)
     - Antonino Pio (138-161)
-    - [Marco Aurelio (161-180)](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#marco-aurelio-161-180)
+    - [Marco Aurelio (161-180)](#marco-aurelio-161-180)
     - Commodo (180-192)
 5. Severi (193-235)
     - Settimio Severo (193-211)
     - Caracalla (211-217)
     - Elagabalo (218-222)
     - Alessandro Severo (222-235)
-6. [Anarchia Militare (235-284)](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#lanarchia-militare-235-284)
+6. [Anarchia Militare (235-284)](#lanarchia-militare-235-284)
     - Massimino il Trace (235-244)
     - Gordiani (22 marzo 238 - 27 aprile 238)
         - Gordiano I (22 marzo 238 - 27 aprile 238)
@@ -45,17 +45,26 @@
     - Filippo l'Arabo (11 febbraio 244 - 18 maggio 249)
     - Filippo II (9 aprile 247 - 26 maggio 249)
     - Deci (31 maggio 249 - )
-        - [Decio (31 maggio 249 - 1 luglio 251)](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#decio-249-251)
+        - [Decio (31 maggio 249 - 1 luglio 251)](#decio-249-251)
         - Erennio Etrusco (251 - 1 luglio 251)
         - Ostiliano (1 luglio 251 - 6 novembre 251) (co-augusto)
         - Volusiano (6 novembre 251 - 14 agosto 253) (co-augusto)
         - Emiliano (14 agosto 253 - 23 settembre 253) (Governatore della mesia inferiore)
     - Treboniano Gallo (1 luglio 251 - 14 agosto 253)
     - Aureliano (270-275)
-    - [Diocleziano (284-305)](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#diocleziano-284-305)
-7. [La tetrarchia](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#tetrarchia)
-    - Diocleziano & Massimiano
-8. [Costantino I (306-337)](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#costantino-i-306-337)
+    - [Diocleziano (284-305)](#diocleziano-284-305)
+7. [La tetrarchia](#tetrarchia)
+    - Diocleziano & Massimiano (&& Costanzo I, detto Cloro)
+8. Secondi Flavi
+    - [Costantino I (306-337)](#costantino-i-306-337)
+    - Costanzo II (337-361)
+    - Flavio Giuliano (361-363) (Detto l'apostata)
+8. Valentiniano & Valente
+    - Valentiniano (364-375) & Valente (364-378)
+9. Teodosio
+    - Teodosio (379-395)
+    - Arcadio & Onorio
+
 
 ## La religione Imperiale
 
@@ -125,7 +134,7 @@ Tutti quelli morti perché non volevano tradire la fede erano chiamati martiri e
 ## Diocleziano (284-305)
 
 Diocleziano fu l'ultimo imperatore nell'anarchia militare.
-nel 293 introdusse la [Tetrarchia](https://github.com/killerbossoriginal/quaderno/blob/main/storia/roma/impero.md#tetrarchia).
+nel 293 introdusse la [Tetrarchia](#tetrarchia).
 Nel 299 abdica per veder se funziona questo nuovo meccanismo, scopre che non funziona.
 Nel 303 egli con un editto chiuse i luoghi di culto cristiani, confisco i beni della Chiesa e limitò la libertà di associazione dei cristiano.
 Muore nel 306.
@@ -139,3 +148,13 @@ Domiziano abdica e fa abdicare Massimiano per vedere se il meccanismo funziona, 
 ## Costantino I (306-337)
 
 Con l'editto di Milano pose fine alle persecuzioni contro i cristiani
+Nel 330 dopo molto tempo di costruzioni e ristrutturazioni della vecchia Bisanzio Costantino fece inaugurare e diventare capitale **Costantinopoli**, oggi chiamata Istanbul
+
+## Flavio Giuliano (361-363)
+Vuole ripristinare il paganesimo
+Muore in guerra, in guerra contro i Persiani/Parti. Secondo la tradizione muore ammazzato da un soldato romano cristiano
+
+## Teodosio (379-395)
+Nel 380 con l'editto di Tessalonica la religione cristiana diventa unica religione dell'impero (l'unica ammissibile) e ufficiale.
+Accetta i visigoti nell'impero, in cambio dell'arruolamento di quest'ultimi tra le file romane.
+In punto di morte divine per l'ultima volta separa l'impero in due parti dando ai suoi due figli Arcadio e Onorio
