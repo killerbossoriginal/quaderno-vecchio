@@ -158,3 +158,6 @@ Muore in guerra, in guerra contro i Persiani/Parti. Secondo la tradizione muore 
 Nel 380 con l'editto di Tessalonica la religione cristiana diventa unica religione dell'impero (l'unica ammissibile) e ufficiale.
 Accetta i visigoti nell'impero, in cambio dell'arruolamento di quest'ultimi tra le file romane.
 In punto di morte divine per l'ultima volta separa l'impero in due parti dando ai suoi due figli Arcadio e Onorio
+
+## Caduta Dell'Impero (395-476)
+Rimane solo la penisola italica nell'impero romano d'occidente
