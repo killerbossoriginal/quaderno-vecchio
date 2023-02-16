@@ -1,11 +1,11 @@
 # Fisica
 
-- [Teoria](https://github.com/killerbossoriginal/quaderno/blob/main/fisica/fisica.md#teoria)
-- [Esercizi](https://github.com/killerbossoriginal/quaderno/blob/main/fisica/fisica.md#esercizi)
+- [Teoria](#teoria)
+- [Esercizi](#esercizi)
 
 ## Teoria
 
-- [Grandezze](https://github.com/killerbossoriginal/quaderno/blob/main/fisica/fisica.md#grandezze)
+- [Grandezze](#grandezze)
 
 ### Grandezze
 
@@ -38,10 +38,10 @@
 Legenda
 
 - pagina 277
-  - [esercizio 21](https://github.com/killerbossoriginal/quaderno/blob/main/fisica/fisica.md#es-21-pag-277)
+  - [esercizio 21](#es-21-pag-277)
 - pagina 280
-  - [esercizio 38](https://github.com/killerbossoriginal/quaderno/blob/main/fisica/fisica.md#es-38-pag-280)
-  - [esercizio 39](https://github.com/killerbossoriginal/quaderno/blob/main/fisica/fisica.md#es-43-pag-280)
+  - [esercizio 38](#es-38-pag-280)
+  - [esercizio 39](#es-43-pag-280)
 
 ### Es 21 pag 277
 
