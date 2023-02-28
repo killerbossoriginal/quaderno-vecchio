@@ -49,56 +49,72 @@ Questa poesia la scrive poco prima dell'inizio della prima guerra mondiale (infa
 > - Riga 13-14: Sospeso ci fosse il fiato
 > - Riga 22-23: Perduto ha la voce la sirena del mondo
 
-# Mario Luzi
-## Il pianto sentito piangere
-Il pianto sentito piangere
+## Vittorio Sereni
+### Ecco le voci cadono
+```
+1. Ecco le voci cadono e gli amici
+   sono così distanti
+   che un grido é meno
+4. che un murmure a chiamarli.
 
-nella camera contigua
+5. Ma sugli anni ritorna
+   il tuo sorriso limpido e funesto
+   simile al lago
+   che rapisce uomini e barche
+9. ma colora le nostre mattine
+```
 
-di notte
+> **Parafrasi:**
+>
+> Ecco che tacciono le voci e gli amici sono così lontani che per chiamarli un grido è efficace come un mormorio.
+>
+> Ma vittorioso sugli anni ritorna il ricordo del tuo sorriso sereno e portatore di dolore, simile al lago che porta via uomini e barche, e porta via i nostri giorni felici.
 
-nello strampalato albergo
-
-poi dovunque
-
-dovunque
-
-nel buio danubiano
-> Connotativo
-
-e nel finimondo di colori
-> Connotativo: finimondo di colori
-
-di ogni possibile orizzonte
-> Connotativo: possibile orizzonte
-
-dilagando
-
-oltre tutti i divisori
-
-delle epoche
-
-delle lingue
-> Connotativo: i divisori (pareti) delle epoche e delle lingue
-
-
-sentito bene sentito forte
-
-nel suo forte rintocco di eptacordio
-
-e rimesso nel fodero di nebbia
-
-del sonno
-> Connotativo: fodero di nebbia del sonno
-
-e della non coscienza
-
-riposto nel buio nascondiglio
-
-del sapere non voluto sapere
-> Connotativo Buio nascondiglio non voluto sapare
-
-fino a quando?
+## Mario Luzi
+### Il pianto sentito piangere
+```
+1.  Il pianto sentito piangere
+    nella camera contigua
+    di notte
+    nello strampalato albergo
+5.  poi dovunque
+    dovunque
+    nel buio danubiano
+    e nel finimondo di colori
+    di ogni possibile orizzonte
+10. dilagando
+    oltre tutti i divisori
+    delle epoche
+    delle lingue
+15. epoche e delle lingue
+    sentito bene sentito forte
+    nel suo forte rintocco di eptacordio
+    e rimesso nel fodero di nebbia
+    del sonno
+20. e della non coscienza
+    riposto nel buio nascondiglio
+    del sapere non voluto sapere
+23. fino a quando?
+```
 
 ## A. Manzoni
 ### I Promessi Sposi
+
+## Umberto Saba
+### Donna
+```
+1.  Quand'eri
+    giovinetta pungevi
+    come una mora di macchia. Anche il piede
+4.  t'era un'arma, o selvaggia.
+
+5.  ero difficile a prendere
+    Ancora
+    giovane, ancora
+    sei bella. I segni
+    degli anni, quelli del dolore, legano
+10. l'anime nostre, una ne fanno. E dietro
+    i capelli nerissimi che avvolgo
+    alle mie dita, piu' non tempo il piccolo
+13. bianco puntuto orecchio demoniaco
+```
