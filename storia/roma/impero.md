@@ -63,6 +63,7 @@
     - Valentiniano (364-375) & Valente (364-378)
 9. Teodosio
     - Teodosio (379-395)
+10. La diarchia
     - Arcadio & Onorio
 
 
@@ -152,12 +153,17 @@ Nel 330 dopo molto tempo di costruzioni e ristrutturazioni della vecchia Bisanzi
 
 ## Flavio Giuliano (361-363)
 Vuole ripristinare il paganesimo
-Muore in guerra, in guerra contro i Persiani/Parti. Secondo la tradizione muore ammazzato da un soldato romano cristiano
+Muore in guerra, in guerra contro i Persiani/Parti. Secondo la tradizione muore ammazzato da un soldato romano cristiano.
 
 ## Teodosio (379-395)
+**Fu' l'ultimo imperatore a governare da solo.**
+
 Nel 380 con l'editto di Tessalonica la religione cristiana diventa unica religione dell'impero (l'unica ammissibile) e ufficiale.
 Accetta i visigoti nell'impero, in cambio dell'arruolamento di quest'ultimi tra le file romane.
-In punto di morte divine per l'ultima volta separa l'impero in due parti dando ai suoi due figli Arcadio e Onorio
+In punto di morte divine per l'ultima volta separa l'impero in due parti dando ai suoi due figli Arcadio e Onorio.
+
+## Le invasioni barbarica
+Gli unni, che partono dal nord della cina e dalla mongolia, iniziano a spingere le popolazioni barbariche contro il confine romano. Molte di esse, come già accennato, vennero ammesse dentro l'impero.
 
 ## Caduta Dell'Impero (395-476)
-Rimane solo la penisola italica nell'impero romano d'occidente
+Rimane solo la penisola italica nell'impero romano d'occidente.
