@@ -32,22 +32,13 @@ Questa poesia la scrive poco prima dell'inizio della prima guerra mondiale (infa
 17. E gli alberi son alberi, **le case**
 18. **sono case**, **le donne**
 19. **che passano son donne**, **e tutto è quello**
-20. **che è**, soltanto quel che è.
-21. La vicenda di gioia e **di dolore**
-22. **non ci tocca**. Perduto ha **la voce**
-23. **la sirena del mondo**, e il mondo **è un grande**
-
-> Sirene intese come figure mitologiche, che attirano
-
-24. **deserto**.
-25. **Nel deserto**
-26. **io guardo** con asciutti occhi me stesso.
-
-- Scegliete e spiegate 3 enjambement
-
-> - Riga 5-6: Per la miserabile giovinezza
-> - Riga 13-14: Sospeso ci fosse il fiato
-> - Riga 22-23: Perduto ha la voce la sirena del mondo
+20. che è, soltanto quel che è.
+21. La vicenda di gioia e di dolore
+22. non ci tocca. Perduto ha la voce
+23. la sirena del mondo, e il mondo è un grande
+24. deserto.
+25. Nel deserto
+26. io guardo con asciutti occhi me stesso.
 
 ## Vittorio Sereni
 ### Ecco le voci cadono
