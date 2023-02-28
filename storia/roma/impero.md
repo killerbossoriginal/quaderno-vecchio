@@ -65,7 +65,8 @@
     - Teodosio (379-395)
 10. La diarchia
     - Arcadio & Onorio
-
+11. Solo piu' bisanzio
+    - [Giustiniano I (527-565)](#giustiniano-i-527-565)
 
 ## La religione Imperiale
 
@@ -151,6 +152,64 @@ Domiziano abdica e fa abdicare Massimiano per vedere se il meccanismo funziona, 
 Con l'editto di Milano pose fine alle persecuzioni contro i cristiani
 Nel 330 dopo molto tempo di costruzioni e ristrutturazioni della vecchia Bisanzio Costantino fece inaugurare e diventare capitale **Costantinopoli**, oggi chiamata Istanbul
 
+Con Costantino inizia il **cesaropapismo**, ovvero l'imperatore assume potere religioso nella religione cattolica. Prima, quando era diffuso il paganesimo, un potere simile era preso dal Pontifex Maximus (pontefice massimo), da Ottaviano, carica ricoperta esclusivamente dagli imperatori
+
+### Il concilio di Nicea (325)
+E' il primo concilio, è stato organizzato da costantino.
+
+- Condanna l'arianesimo come religione eretica.
+- Viene creata la professione di fede
+
+> IL CREDO
+> ```
+> CREDO IN UN SOLO DIO,
+> PADRE ONNIPOTENTE,
+> CREATORE DEL CIELO E DELLA TERRA,
+> DI TUTTE LE COSE VISIBILI E INVISIBILI.
+> 
+> CREDO IN UN SOLO SIGNORE, GESÙ CRISTO,
+> UNIGENITO FIGLIO DI DIO,
+> NATO DAL PADRE PRIMA DI TUTTI I SECOLI:
+> DIO DA DIO, LUCE DA LUCE,
+> DIO VERO DA DIO VERO,
+> GENERATO, NON CREATO,
+> DELLA STESSA SOSTANZA DEL PADRE;
+> PER MEZZO DI LUI TUTTE LE COSE SONO STATE CREATE.
+> 
+> PER NOI UOMINI E PER LA NOSTRA SALVEZZA DISCESE DAL CIELO,
+> E PER OPERA DELLO SPIRITO SANTO
+> SI È INCARNATO NEL SENO DELLA VERGINE MARIA
+> E SI È FATTO UOMO.
+> 
+> FU CROCIFISSO PER NOI SOTTO PONZIO PILATO,
+> MORI E FU SEPOLTO.
+> 
+> IL TERZO GIORNO È RISUSCITATO,
+> SECONDO LE SCRITTURE, È SALITO AL CIELO,
+> SIEDE ALLA DESTRA DEL PADRE.
+> 
+> E DI NUOVO VERRÀ, NELLA GLORIA,
+> PER GIUDICARE I VIVI E I MORTI,
+> E IL SUO REGNO NON AVRÀ FINE.
+> 
+> CREDO NELLO SPIRITO SANTO,
+> CHE È SIGNORE E DÀ LA VITA,
+> E PROCEDE DAL PADRE E DAL FIGLIO.
+> 
+> CON IL PADRE E IL FIGLIO È ADORATO E GLORIFICATO,
+> E HA PARLATO PER MEZZO DEI PROFETI.
+> 
+> CREDO LA CHIESA,
+> UNA SANTA CATTOLICA E APOSTOLICA.
+> 
+> PROFESSO UN SOLO BATTESIMO
+> PER IL PERDONO DEI PECCATI.
+> 
+> ASPETTO LA RISURREZIONE DEI MORTI
+> E LA VITA DEL MONDO CHE VERRÀ.
+> AMEN.
+> ```
+
 ## Flavio Giuliano (361-363)
 Vuole ripristinare il paganesimo
 Muore in guerra, in guerra contro i Persiani/Parti. Secondo la tradizione muore ammazzato da un soldato romano cristiano.
@@ -160,10 +219,16 @@ Muore in guerra, in guerra contro i Persiani/Parti. Secondo la tradizione muore 
 
 Nel 380 con l'editto di Tessalonica la religione cristiana diventa unica religione dell'impero (l'unica ammissibile) e ufficiale.
 Accetta i visigoti nell'impero, in cambio dell'arruolamento di quest'ultimi tra le file romane.
-In punto di morte divine per l'ultima volta separa l'impero in due parti dando ai suoi due figli Arcadio e Onorio.
+In punto di morte divine per l'ultima volta separa l'impero in due parti dando ai suoi due figli Arcadio e Onorio, che però erano troppo piccoli.
 
 ## Le invasioni barbarica
 Gli unni, che partono dal nord della cina e dalla mongolia, iniziano a spingere le popolazioni barbariche contro il confine romano. Molte di esse, come già accennato, vennero ammesse dentro l'impero.
 
-## Caduta Dell'Impero (395-476)
+## Caduta Dell'Impero d'Occidente (395-476)
 Rimane solo la penisola italica nell'impero romano d'occidente.
+
+## Giustiniano I (527-565)
+Prova a riacquisire tutte le cose "perse" alla caduta dell'impero d'occidente, per continuare a mantenere l'egemonia sulle rotte commerciali.
+
+Crea il **Corpus Iuris Civilis**
+> Il corpus iuris civilis è ancora oggi la base del diritto civile. Viene studiato a giurisprudenza.
