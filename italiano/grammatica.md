@@ -81,3 +81,13 @@
     - di sollievo: specificazione
 
 ## Analisi del periodo
+### La proposizione Principale
+Passaggi per trovarla:
+1. Escludi i verbi indefiniti
+2. Escludi tutti i verbi di frasi che iniziano con congiunzioni
+3. Controlla che non sia una coordinata per asindoto (tramite punteggiatura)
+
+### Esercizi
+#### Trova la principale
+
+- 
