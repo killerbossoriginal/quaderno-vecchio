@@ -138,7 +138,7 @@ Tutti quelli morti perché non volevano tradire la fede erano chiamati martiri e
 Diocleziano fu l'ultimo imperatore nell'anarchia militare.
 nel 293 introdusse la [Tetrarchia](#tetrarchia).
 Nel 299 abdica per veder se funziona questo nuovo meccanismo, scopre che non funziona.
-Nel 303 egli con un editto chiuse i luoghi di culto cristiani, confisco i beni della Chiesa e limitò la libertà di associazione dei cristiano.
+
 Muore nel 306.
 
 ### Tetrarchia
@@ -149,8 +149,13 @@ Domiziano abdica e fa abdicare Massimiano per vedere se il meccanismo funziona, 
 
 ## Costantino I (306-337)
 
-Con l'editto di Milano pose fine alle persecuzioni contro i cristiani
-Nel 330 dopo molto tempo di costruzioni e ristrutturazioni della vecchia Bisanzio Costantino fece inaugurare e diventare capitale **Costantinopoli**, oggi chiamata Istanbul
+Figlio di uno degli augusti del "primo giro" di tetrarchia, aspira a diventare imperatore, sale al potere grazie ai soldati e si fa nominare imperatore di occidente. Con la battaglia di Ponte Milvio ammazza il rivale massenzio che governava l'occidente.
+
+Con l'editto di Milano (assieme a Licinio) pose fine alle persecuzioni contro i cristiani.
+Poco dopo toglie gradualmente dal potere Licino e lo fa catturare per poi ammazzarlo in condizioni ingnote.
+
+Nel 330 dopo molto tempo di costruzioni e ristrutturazioni della vecchia Bisanzio Costantino fece inaugurare e diventare capitale **Costantinopoli**, oggi chiamata Istanbul.
+
 
 Con Costantino inizia il **cesaropapismo**, ovvero l'imperatore assume potere religioso nella religione cattolica. Prima, quando era diffuso il paganesimo, un potere simile era preso dal Pontifex Maximus (pontefice massimo), da Ottaviano, carica ricoperta esclusivamente dagli imperatori
 
@@ -228,7 +233,7 @@ Gli unni, che partono dal nord della cina e dalla mongolia, iniziano a spingere 
 Rimane solo la penisola italica nell'impero romano d'occidente.
 
 ## Giustiniano I (527-565)
-Prova a riacquisire tutte le cose "perse" alla caduta dell'impero d'occidente, per continuare a mantenere l'egemonia sulle rotte commerciali.
+Prova a riacquisire tutte "le cose perse" alla caduta dell'impero d'occidente, per continuare a mantenere l'egemonia sulle rotte commerciali.
 
 Crea il **Corpus Iuris Civilis**
 > Il corpus iuris civilis è ancora oggi la base del diritto civile. Viene studiato a giurisprudenza.

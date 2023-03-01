@@ -79,3 +79,5 @@
     - tirerebbe: predicato verbale
     - un sospiro: oggetto
     - di sollievo: specificazione
+
+## Analisi del periodo
