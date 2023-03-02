@@ -90,6 +90,7 @@ Questa poesia la scrive poco prima dell'inizio della prima guerra mondiale (infa
 
 ## A. Manzoni
 ### I Promessi Sposi
+[Testo](./i-promessi-sposi.md)
 
 ## Umberto Saba
 ### Donna
