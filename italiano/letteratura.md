@@ -1,8 +1,99 @@
 # Letteratura
 
 ## Figure Retoriche
+- Suono
+    - Alitterazione
+    - Assonanza
+    - Consonanza
+    - Onomatopea
+    - Paronomasia
+- Costruzione
+    - Anafora
+    - Anastrofe
+    - Asindeto
+    - Chiasmo
+    - Ellissi
+    - Enumerazione
+    - Epifora
+    - Ipallage
+    - Iterazione
+    - Parallelismo
+    - Polisindeto
+- Significato
+    - Antitesi
+    - Iperbole
+    - Litote
+    - Metafora
+    - Metonomia
+    - Ossimoro
+    - Personificazione
+    - Reticenza
+    - Similitudine
+    - Sineddoche
+    - Sinestesia
 
-### Enjambement
+### Figure di costruzione
+#### Anafora
+Ripetizione di una o piu' parole all'inizio dei versi successivi
+
+#### Asindeto
+Coordinazione di elementi o di una frase di un periodo senza l'uso di coniugazioni
+
+#### Chiasmo
+
+Disposizione incrociata di due elementi di un verso nel verso successivo; quasi a formare una x
+
+#### Climax
+Successione di termini in ordine di progressiva intensità
+può essere:
+- ascendente
+- discendente
+
+#### Epifora
+é il contrario dell'anafora,
+ripete alla fine del verso
+
+#### Iterazione
+ripetizione di una o piu' parole
+
+#### Parallelismo
+disposizione parallela di due o piu' elementi che si corrispondono simmetricamente
+
+
+### Figure di significato
+#### Antitesi
+Accostamento di immagini o espressioni di senso opposto
+
+#### Iperbole
+esagerazione per difetto o eccesso
+
+#### Litote
+espressione un concetto negando l'opposto
+
+#### Metafora
+espressione di un concetto trasferendo il significato di un termine a un altro per somiglianza. Per esempio: sei un leone.
+
+#### Metonimia
+espressione di un concetto trasferendo il significato di un termine a un altro per affinita logica/materiale. Per esempio: taglio di capelli.
+
+#### Ossimoro
+Accostamento di termini con senso opposto con espressione contraddittoria/non logica
+Per esmpio: estate fredda
+
+#### Personificazione
+Assegnazione di attributi "umani" a cose
+Per esempio: viso di perla
+
+#### Similitudine
+"se non sai questa sei come uno stupido"
+
+#### Sineddoche
+Sostituzione di una parte per il tutto o viceversa
+
+#### Sinestesia
+Associazione di "emozioni" che appartengono a sfere sensoriali per dverse, esempio: *vedo un* dipinto freddo
+
+#### Enjambement
 L'enjambement è quando si va a capo e, se ci si ferma alla fine della riga, non si può capire il significato.
 
 ## Camillo Sbarbaro
