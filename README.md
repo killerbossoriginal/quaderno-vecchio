@@ -6,3 +6,4 @@
 - [Italiano](./italiano/index.md)
 - [Educazione Civica](./educazione-civica/index.md)
 - [English](./english/index.md)
+- [Informatica](./informatica/index.md)
