@@ -1,5 +1,7 @@
 # C++
 
+[Indietro](./../index.md)
+
 Tipo: Strutturale, Procedurale, -Imperativa
 
 Ogni programma in C++ è composto da almeno 1 procedura, la procedura principale.

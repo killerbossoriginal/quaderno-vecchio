@@ -1,5 +1,7 @@
 # Malattie Sessualmente Trasmissibili
 
+[Indietro](./index.md)
+
 (Pag 456-464: Educazione alla salute, conoscere e prevenire)
 
 ## Come si trasmettono

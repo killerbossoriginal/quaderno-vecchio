@@ -1,5 +1,7 @@
 # Matematica
 
+[Indietro](./matematica.md)
+
 ## Legenda
 - [Frazioni Algebriche](https://github.com/killerbossoriginal/quaderno/blob/main/matematica/algebra.md#frazioni-algebriche)
 - [Razionalizzazione](https://github.com/killerbossoriginal/quaderno/blob/main/matematica/algebra.md#razionalizzazione)
