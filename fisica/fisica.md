@@ -2,8 +2,15 @@
 
 [Indietro](./../index.md)
 
-- [Teoria](#teoria)
-- [Esercizi](#esercizi)
+- [Fisica](#fisica)
+  - [Teoria](#teoria)
+    - [Grandezze](#grandezze)
+  - [Esercizi](#esercizi)
+    - [Pagina 429](#pagina-429)
+      - [Esercizio 17](#esercizio-17)
+      - [Esercizio 18](#esercizio-18)
+      - [Esercizio 19](#esercizio-19)
+      - [Esercizio 22](#esercizio-22)
 
 ## Teoria
 
@@ -36,26 +43,36 @@
 - 10^25 = Mappa delle galassie esterne
 
 ## Esercizi
+### Pagina 429
+#### Esercizio 17
+![Esercizio](media/429.17.png)
+$$
+\frac{3000J}{5.0s} = 600W
+$$
 
-Legenda
+#### Esercizio 18
+![Esercizio](media/429.18.png)
+$$
+150W*80s=12000=1.2*10^{4}
+$$
 
-- pagina 277
-  - [esercizio 21](#es-21-pag-277)
-- pagina 280
-  - [esercizio 38](#es-38-pag-280)
-  - [esercizio 39](#es-43-pag-280)
+#### Esercizio 19
+![Esercizio](media/429.19.png)
+Formula
+$$
+W=\frac{J}{s}
+$$
+quindi
+$$
+s=\frac{J}{W}
+$$
+quindi
+$$
+T=\frac{530J}{30W}=17.6667s\approx18s
+$$
 
-### Es 21 pag 277
+#### Esercizio 22
+![Esercizio](media/429.22.png)
 
-a. Il corpo A si avvicina al punto di osservazione e il corpo B si allontana
-b. Nel momento 4 i due corpi sono alla stessa distanza
-
-### Es 38 pag 280
-
-a. Nei primi 2 secondi il corpo sta fermo alla stessa distanza, tra il 2 e il 4 si sposta di un metro verso il punto di osservazione e poi di 3 metri
-b. 0.6 m/s
-c. 1 m/s
-
-### Es 43 pag 280
-
-0.12 S
+Il motore eroga una potenza costante negli intervalli t=0@1, t=3@5
+Nell'intervallo t=1@3 il motore eroga una potenza che cambia
