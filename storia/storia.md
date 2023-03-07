@@ -1,4 +1,4 @@
 # Storia
 
 - [Roma](./roma/index.md)
-- [Medioevo](./medioevo.md)
+- [Medioevo](./medioevo/medioevo.md)
