@@ -21,18 +21,57 @@ say + tell + object
 Ex:
 Mark told me he was living in France;
 
-| Time | Direct Speach | Reported Speach|
-|---------------|---------------|---------------|
-|Present Simple -> Past Simple|"I play tennis"|He said that he **played** tennis|
-|Present Continuous -> Past Continuous|"I am reading a book"|He said he **was reading** a book|
-|Past Simple -> Past Perfect|"Mark studied Maths at school"|Mark told Paul that he **had studied** Maths at school|
-|Past Continuous -> Past Perfect Continuous|"Simon was coocking when Paul arrived"|Simon said(that) he **had been cooking** when Paul arrived|
-|Present Perfect -> Past Perfect|"Jane has made a cake"|Jhon told me (that) Jade **had made** a cake
-|Present Perfect Continuous -> Past Perfect Continuous| "Jane has been sleeping for two hours"|John told me that Jane **had been sleeping** for two hours|
-|Will -> Would|||
-|Can -> Could|||
-|Must/Have to -> Had to|||
-|May -> Might|||
+| Time From                  | Time To                 | Direct Speach Example                  | Reported Speach Example                                    |
+|----------------------------|-------------------------|----------------------------------------|------------------------------------------------------------|
+| Present Simple             | Past Simple             | "I play tennis"                        | He said that he **played** tennis                          |
+| Present Continuous         | Past Continuous         | "I am reading a book"                  | He said he **was reading** a book                          |
+| Past Simple                | Past Perfect            | "Mark studied Maths at school"         | Mark told Paul that he **had studied** Maths at school     |
+| Past Continuous            | Past Perfect Continuous | "Simon was coocking when Paul arrived" | Simon said(that) he **had been cooking** when Paul arrived |
+| Present Perfect            | Past Perfect            | "Jane has made a cake"                 | Jhon told me (that) Jade **had made** a cake               |
+| Present Perfect Continuous | Past Perfect Continuous | "Jane has been sleeping for two hours" | John told me that Jane **had been sleeping** for two hours |
+
+
+Time Changes
+| Time From    | Time To        | Esempio Time From           | Esempio Time To                                     |
+|--------------|----------------|-----------------------------|-----------------------------------------------------|
+| Yesterday    | The day before | Did you go out yesterday?   | He asked me if I gone out the day before.           |
+| Will         | Would          |                             |                                                     |
+| Can          | Could          |                             |                                                     |
+| Must/Have to | Had to         |                             |                                                     |
+| May          | Might          |                             |                                                     |
+| Should       | Should         |                             |                                                     |
+| Would        | Would          |                             |                                                     |
+| Could        | Could          |                             |                                                     |
+| Had To       | Had To         |                             |                                                     |
+| Used To      | Used To        | I used to live here         | She said she used to live here                      |
+|              |                | I went to the pub yesterday | He said that he have gone to the pub the day before |
+
+#### Questions
+##### Yes/No questions
+If / wheather (se)
+
+```
+- Did you go out yesterday? y/n
+- The teacher asked me if I had gone out the day before.
+```
+##### Questions Words
+- What
+- Who
+- When
+- Why
+- How
+
+-> Invertire verbo e soggetto
+
+```
+- What did you do last night?
+- She asked me what time I had done the night before
+```
+
+### Tell VS Say
+`<soggetto>` tell `<oggetto>` `<cosa?>`
+
+`<soggetto>` say `<cosa>`
 
 ## Exercises
 ### Extensions
