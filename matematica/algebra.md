@@ -18,6 +18,11 @@
 ## Radicali Doppi
 ![Radicali Doppi](./algebra/radicali-doppi.png)
 
+## Piano Cartesiano
+## Rette
+$ y = mx + q $
+con $m$ come inclinazione
+
 ## Esercizi
 
 - [Pagina 871](#pagina-871)
