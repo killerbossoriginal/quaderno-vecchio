@@ -3,9 +3,11 @@
 [Indietro](./matematica.md)
 
 ## Legenda
-- [Frazioni Algebriche](https://github.com/killerbossoriginal/quaderno/blob/main/matematica/algebra.md#frazioni-algebriche)
-- [Razionalizzazione](https://github.com/killerbossoriginal/quaderno/blob/main/matematica/algebra.md#razionalizzazione)
-- [Radicali Doppi](https://github.com/killerbossoriginal/quaderno/blob/main/matematica/algebra.md#radicali-doppi)
+- [Frazioni Algebriche](#frazioni-algebriche)
+- [Razionalizzazione](#razionalizzazione)
+- [Radicali Doppi](#radicali-doppi)
+- [Esercizi](#esercizi)
+
 
 ## Frazioni Algebriche
 ![Frazioni Algebriche](./algebra/frazioni-algebriche.png)
@@ -17,13 +19,19 @@
 ![Radicali Doppi](./algebra/radicali-doppi.png)
 
 ## Esercizi
+
+- [Pagina 871](#pagina-871)
+  - [Esercizio 222](#esercizio-222)
+- [Pagina 872](#pagina-872)
+  - [Esercizio 244](#esercizio-244)
+
 ### Pagina 871
 #### Esercizio 222
-![Esercizio](algebra/es.222.pag.271.png)
+![Esercizio](./algebra/871.222.png)
 ##### a
-$$(a-2)x-2y-1 = 0$$
-$$-2y = -(a-2)x+1$$
-$$2y = (a-2)x-1$$
+$$(a-2)x-2y-1 = 0\rightarrow-2y = -(a-2)x+1\rightarrow2y = (a-2)x-1$$
+$$$$
+$$$$
 $$y = \frac{a-2}{2}x-\frac{1}{2}$$
 $$\frac{a-2}{2} = 0$$
 $$a-2 = 0$$
@@ -67,87 +75,6 @@ $$-2a=-5$$
 $$a=\frac{5}{2}$$
 
 ### Pagina 872
-#### Esercizio 240
-![Esercizio](algebra/es.240.pag.872.png)
-
-$$
-\begin{cases}
-3x-y+2=0
-\\
-x+2y=4
-\end{cases}
-$$
-$$
-\begin{cases}
--y=-3x+2
-\\
-2y=4-x
-\end{cases}
-$$
-$$
-\begin{cases}
-y=3x-2
-\\
-y=-\frac{x}{2}+2
-\end{cases}
-$$
-$$
-\begin{cases}
-y=3x-2
-\\
-3x-2=-\frac{x}{2}+2
-\end{cases}
-$$
-$$
-\begin{cases}
-y=3x-2
-\\
-3x+\frac{x}{2}=4
-\end{cases}
-$$
-$$
-\begin{cases}
-y=3x-2
-\\
-\frac{7x}{2}=4
-\end{cases}
-$$
-$$
-\begin{cases}
-y=3x-2
-\\
-7x=8
-\end{cases}
-$$
-$$
-\begin{cases}
-y=3x-2
-\\
-x=\frac{8}{7}
-\end{cases}
-$$
-$$
-\begin{cases}
-y=3\frac{8}{7}-2
-\\
-x=\frac{8}{7}
-\end{cases}
-$$
-$$
-\begin{cases}
-y=\frac{24}{7}-2
-\\
-x=\frac{8}{7}
-\end{cases}
-$$
-$$
-\begin{cases}
-y=\frac{10}{7}
-\\
-x=\frac{8}{7}
-\end{cases}
-$$
-
 #### Esercizio 244
 ![Esercizio](algebra/872.244.png)
 
