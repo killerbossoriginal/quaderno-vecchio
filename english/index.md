@@ -117,6 +117,28 @@ participants.
 
 > ***The headteacher: The school is going to organize a science competiton. A local company have agreed to help with costs sicn the management want to motivate more studentso to get involve in scinece. The students will be divided into groups and each group will consist of five people. The students who are interested should apply by the end of the week and the scinece and maths teachers have to select the final candidates. The task, which have already been choosenm is to conduct an experiment in the lab and write a detailed report. There will be prizes for all the partecipants***
 
+3. Write direct questions.
+   1. He asked me if I would be ready by the next day. ***Will you be ready from tomorrow?***
+   2. They asked whether their children ate fish.  ***Do your children hate fish?***
+   3. She asked the waiter if their dog was allowed to go in. ***Is the dog allowed to go in?***
+   4. He asked if the last train had already left. ***Has the last train already left?***
+   5. I asked whether I could leave. ***Can I leave?***
+   6. The policeman asked if that bag belonged to me. ***That bag belonge to you?***
+
+4. Write the reported questions using if / whether or a question word.
+   1. ‘How long have you been here, Mary?’
+      1. Kate asked ***how long she has been here***
+   2. ‘When did you meet that boy?’
+      1. Mum asked me ***when i met that boy***
+   3. ‘Should we invite our new neighbours to the party?’
+      1. Tom asked his wife ***if they should invite their new neighbours to party***
+   4. ‘Do you think we will leave early tomorrow?’
+      1. I asked my parents ***wheather we would leave early tomorrow***
+   5. ‘When are you going to repair your bike?’
+      1. Tom asked when his son ***is going to repaire his(of the son) bike***
+   6. ‘Can you help us in the garden?’
+      1. My parents asked me ***if i could help him in the garden***
+
 5. Complete the replies.
     1. Linda hasn't started her homework yet. 
        1. That's funny. She told me ***she had finished***.
