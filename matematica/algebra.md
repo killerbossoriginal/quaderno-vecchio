@@ -30,12 +30,6 @@
 ![Esercizio](./algebra/871.222.png)
 ##### a
 $(a-2)x-2y-1 = 0\rightarrow-2y = -(a-2)x+1\rightarrow2y = (a-2)x-1\rightarrow y = \frac{a-2}{2}x-\frac{1}{2}\rightarrow \frac{a-2}{2} = 0\rightarrow a-2 = 0 \rightarrow a = 2$
-$$$$
-$$$$
-$$$$
-$$$$
-$$$$
-$$$$
 
 ##### b
 $$(a-2)x-2y-1 = 0$$
