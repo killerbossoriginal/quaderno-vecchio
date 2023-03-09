@@ -34,6 +34,8 @@ Chiunque, senza esser pregato, s'intromette a rifar l'opera altrui, s'espone a r
 
 ## CAPITOLO I
 
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-i)
+
 
 Quel ramo del lago di Como, che volge a mezzogiorno, tra due catene non interrotte di monti, tutto a seni e a golfi, a seconda dello sporgere e del rientrare di quelli, vien, quasi a un tratto, a ristringersi, e a prender corso e figura di fiume, tra un promontorio a destra, e un'ampia costiera dall'altra parte; e il ponte, che ivi congiunge le due rive, par che renda ancor più sensibile all'occhio questa trasformazione, e segni il punto in cui il lago cessa, e l'Adda rincomincia, per ripigliar poi nome di lago dove le rive, allontanandosi di nuovo, lascian l'acqua distendersi e rallentarsi in nuovi golfi e in nuovi seni. La costiera, formata dal deposito di tre grossi torrenti, scende appoggiata a due monti contigui, l'uno detto di san Martino, l'altro, con voce lombarda, il Resegone, dai molti suoi cocuzzoli in fila, che in vero lo fanno somigliare a una sega: talché non è chi, al primo vederlo, purché sia di fronte, come per esempio di su le mura di Milano che guardano a settentrione, non lo discerna tosto, a un tal contrassegno, in quella lunga e vasta giogaia, dagli altri monti di nome più oscuro e di forma più comune. Per un buon pezzo, la costa sale con un pendìo lento e continuo; poi si rompe in poggi e in valloncelli, in erte e in ispianate, secondo l'ossatura de' due monti, e il lavoro dell'acque. Il lembo estremo, tagliato dalle foci de' torrenti, è quasi tutto ghiaia e ciottoloni; il resto, campi e vigne, sparse di terre, di ville, di casali; in qualche parte boschi, che si prolungano su per la montagna. Lecco, la principale di quelle terre, e che dà nome al territorio, giace poco discosto dal ponte, alla riva del lago, anzi viene in parte a trovarsi nel lago stesso, quando questo ingrossa: un gran borgo al giorno d'oggi, e che s'incammina a diventar città. Ai tempi in cui accaddero i fatti che prendiamo a raccontare, quel borgo, già considerabile, era anche un castello, e aveva perciò l'onore d'alloggiare un comandante, e il vantaggio di possedere una stabile guarnigione di soldati spagnoli, che insegnavan la modestia alle fanciulle e alle donne del paese, accarezzavan di tempo in tempo le spalle a qualche marito, a qualche padre; e, sul finir dell'estate, non mancavan mai di spandersi nelle vigne, per diradar l'uve, e alleggerire a' contadini le fatiche della vendemmia. Dall'una all'altra di quelle terre, dall'alture alla riva, da un poggio all'altro, correvano, e corrono tuttavia, strade e stradette, più o men ripide, o piane; ogni tanto affondate, sepolte tra due muri, donde, alzando lo sguardo, non iscoprite che un pezzo di cielo e qualche vetta di monte; ogni tanto elevate su terrapieni aperti: e da qui la vista spazia per prospetti più o meno estesi, ma ricchi sempre e sempre qualcosa nuovi, secondo che i diversi punti piglian più o meno della vasta scena circostante, e secondo che questa o quella parte campeggia o si scorcia, spunta o sparisce a vicenda. Dove un pezzo, dove un altro, dove una lunga distesa di quel vasto e variato specchio dell'acqua; di qua lago, chiuso all'estremità o piùttosto smarrito in un gruppo, in un andirivieni di montagne, e di mano in mano più allargato tra altri monti che si spiegano, a uno a uno, allo sguardo, e che l'acqua riflette capovolti, co' paesetti posti sulle rive; di là braccio di fiume, poi lago, poi fiume ancora, che va a perdersi in lucido serpeggiamento pur tra' monti che l'accompagnano, degradando via via, e perdendosi quasi anch'essi nell'orizzonte. Il luogo stesso da dove contemplate que' vari spettacoli, vi fa spettacolo da ogni parte: il monte di cui passeggiate le falde, vi svolge, al di sopra, d'intorno, le sue cime e le balze, distinte, rilevate, mutabili quasi a ogni passo, aprendosi e contornandosi in gioghi ciò che v'era sembrato prima un sol giogo, e comparendo in vetta ciò che poco innanzi vi si rappresentava sulla costa: e l'ameno, il domestico di quelle falde tempera gradevolmente il selvaggio, e orna vie più il magnifico dell'altre vedute.
 
@@ -166,6 +168,8 @@ Il fatto sta che don Abbondio aveva forse tanta voglia di scaricarsi del suo dol
 
 
 ## CAPITOLO II
+
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-ii)
 
 
 Si racconta che il principe di Condé dormì profondamente la notte avanti la giornata di Rocroi: ma, in primo luogo, era molto affaticato; secondariamente aveva già date tutte le disposizioni necessarie, e stabilito ciò che dovesse fare, la mattina. Don Abbondio in vece non sapeva altro ancora se non che l'indomani sarebbe giorno di battaglia; quindi una gran parte della notte fu spesa in consulte angosciose. Non far caso dell'intimazione ribalda, né delle minacce, e fare il matrimonio, era un partito, che non volle neppur mettere in deliberazione. Confidare a Renzo l'occorrente, e cercar con lui qualche mezzo... Dio liberi! \- Non si lasci scappar parola... altrimenti... ehm! \- aveva detto un di que' bravi; e, al sentirsi rimbombar quell'ehm! nella mente, don Abbondio, non che pensare a trasgredire una tal legge, si pentiva anche dell'aver ciarlato con Perpetua. Fuggire? Dove? E poi! Quant'impicci, e quanti conti da rendere! A ogni partito che rifiutava, il pover'uomo si rivoltava nel letto. Quello che, per ogni verso, gli parve il meglio o il men male, fu di guadagnar tempo, menando Renzo per le lunghe. Si rammentò a proposito, che mancavan pochi giorni al tempo proibito per le nozze; « e, se posso tenere a bada, per questi pochi giorni, quel ragazzone, ho poi due mesi di respiro; e, in due mesi, può nascer di gran cose. » Ruminò pretesti da metter in campo; e, benché gli paressero un po' leggieri, pur s'andava rassicurando col pensiero che la sua autorità gli avrebbe fatti parer di giusto peso, e che la sua antica esperienza gli darebbe gran vantaggio sur un giovanetto ignorante. « Vedremo, \- diceva tra sé: \- egli pensa alla morosa; ma io penso alla pelle: il più interessato son io, lasciando stare che sono il più accorto. Figliuol caro, se tu ti senti il bruciore addosso, non so che dire; ma io non voglio andarne di mezzo. » Fermato così un poco l'animo a una deliberazione, poté finalmente chiuder occhio: ma che sonno! che sogni! Bravi, don Rodrigo, Renzo, viottole, rupi, fughe, inseguimenti, grida, schioppettate. Il primo svegliarsi, dopo una sciagura, e in un impiccio, è un momento molto amaro. La mente, appena risentita, ricorre all'idee abituali della vita tranquilla antecedente; ma il pensiero del nuovo stato di cose le si affaccia subito sgarbatamente; e il dispiacere ne è più vivo in quel paragone istantaneo. Assaporato dolorosamente questo momento, don Abbondio ricapitolò subito i suoi disegni della notte, si confermò in essi, gli ordinò meglio, s'alzò, e stette aspettando Renzo con timore e, ad un tempo, con impazienza. Lorenzo o, come dicevan tutti, Renzo non si fece molto aspettare. Appena gli parve ora di poter, senza indiscrezione, presentarsi al curato, v'andò, con la lieta furia d'un uomo di vent'anni, che deve in quel giorno sposare quella che ama. Era, fin dall'adolescenza, rimasto privo de' parenti, ed esercitava la professione di filatore di seta, ereditaria, per dir così, nella sua famiglia; professione, negli anni indietro, assai lucrosa; allora già in decadenza, ma non però a segno che un abile operaio non potesse cavarne di che vivere onestamente. Il lavoro andava di giorno in giorno scemando; ma l'emigrazione continua de' lavoranti, attirati negli stati vicini da promesse, da privilegi e da grosse paghe, faceva sì che non ne mancasse ancora a quelli che rimanevano in paese. Oltre di questo, possedeva Renzo un poderetto che faceva lavorare e lavorava egli stesso, quando il filatoio stava fermo; di modo che, per la sua condizione, poteva dirsi agiato. E quantunque quell'annata fosse ancor più scarsa delle antecedenti, e già si cominciasse a provare una vera carestia, pure il nostro giovine, che, da quando aveva messi gli occhi addosso a Lucia, era divenuto massaio, si trovava provvisto bastantemente, e non aveva a contrastar con la fame. Comparve davanti a don Abbondio, in gran gala, con penne di vario colore al cappello, col suo pugnale del manico bello, nel taschino de' calzoni, con una cert'aria di festa e nello stesso tempo di braverìa, comune allora anche agli uomini più quieti. L'accoglimento incerto e misterioso di don Abbondio fece un contrapposto singolare ai modi gioviali e risoluti del giovinotto.
@@ -386,6 +390,8 @@ Le donne sfilarono, e si sparsero a raccontar l'accaduto. Due o tre andaron fin 
 
 ## CAPITOLO III
 
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-iii)
+
 
 Lucia entrò nella stanza terrena, mentre Renzo stava angosciosamente informando Agnese, la quale angosciosamente lo ascoltava. Tutt'e due si volsero a chi ne sapeva più di loro, e da cui aspettavano uno schiarimento, il quale non poteva essere che doloroso: tutt'e due, lasciando travedere, in mezzo al dolore, e con l'amore diverso che ognun d'essi portava a Lucia, un cruccio pur diverso perché avesse taciuto loro qualche cosa, e una tal cosa. Agnese, benché ansiosa di sentir parlare la figlia, non poté tenersi di non farle un rimprovero. \- A tua madre non dir niente d'una cosa simile!
 
@@ -555,6 +561,8 @@ La madre aggiunse altri consigli dello stesso genere; e lo sposo se n'andò, col
 
 ## CAPITOLO IV
 
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-iv)
+
 
 Il sole non era ancor tutto apparso sull'orizzonte, quando il padre Cristoforo uscì dal suo convento di Pescarenico, per salire alla casetta dov'era aspettato. È Pescarenico una terricciola, sulla riva sinistra dell'Adda, o vogliam dire del lago, poco discosto dal ponte: un gruppetto di case, abitate la più parte da pescatori, e addobbate qua e là di tramagli e di reti tese ad asciugare. Il convento era situato (e la fabbrica ne sussiste tuttavia) al di fuori, e in faccia all'entrata della terra, con di mezzo la strada che da Lecco conduce a Bergamo. Il cielo era tutto sereno: di mano in mano che il sole s'alzava dietro il monte, si vedeva la sua luce, dalle sommità de' monti opposti, scendere, come spiegandosi rapidamente, giù per i pendìi, e nella valle. Un venticello d'autunno, staccando da' rami le foglie appassite del gelso, le portava a cadere, qualche passo distante dall'albero. A destra e a sinistra, nelle vigne, sui tralci ancor tesi, brillavan le foglie rosseggianti a varie tinte; e la terra lavorata di fresco, spiccava bruna e distinta ne' campi di stoppie biancastre e luccicanti dalla guazza. La scena era lieta; ma ogni figura d'uomo che vi apparisse, rattristava lo sguardo e il pensiero. Ogni tanto, s'incontravano mendichi laceri e macilenti, o invecchiati nel mestiere, o spinti allora dalla necessità a tender la mano. Passavano zitti accanto al padre Cristoforo, lo guardavano pietosamente, e, benché non avesser nulla a sperar da lui, giacché un cappuccino non toccava mai moneta, gli facevano un inchino di ringraziamento, per l'elemosina che avevan ricevuta, o che andavano a cercare al convento. Lo spettacolo de' lavoratori sparsi ne' campi, aveva qualcosa d'ancor più doloroso. Alcuni andavan gettando le lor semente, rade, con risparmio, e a malincuore, come chi arrischia cosa che troppo gli preme; altri spingevan la vanga come a stento, e rovesciavano svogliatamente la zolla. La fanciulla scarna, tenendo per la corda al pascolo la vaccherella magra stecchita, guardava innanzi, e si chinava in fretta, a rubarle, per cibo della famiglia, qualche erba, di cui la fame aveva insegnato che anche gli uomini potevan vivere. Questi spettacoli accrescevano, a ogni passo, la mestizia del frate, il quale camminava già col tristo presentimento in cuore, d'andar a sentire qualche sciagura.
 
@@ -629,6 +637,8 @@ Ma, intanto che noi siamo stati a raccontare i fatti del padre Cristoforo, è ar
 
 
 ## CAPITOLO V
+
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-v)
 
 
 Il qual padre Cristoforo si fermò ritto sulla soglia, e, appena ebbe data un'occhiata alle donne, dovette accorgersi che i suoi presentimenti non eran falsi. Onde, con quel tono d'interrogazione che va incontro a una trista risposta, alzando la barba con un moto leggiero della testa all'indietro, disse: \- ebbene? \- Lucia rispose con uno scoppio di pianto. La madre cominciava a far le scuse d'aver osato... ma il frate s'avanzò, e, messosi a sedere sur un panchetto a tre piedi, troncò i complimenti, dicendo a Lucia: \- quietatevi, povera figliuola. E voi, \- disse poi ad Agnese, \- raccontatemi cosa c'è! \- Mentre la buona donna faceva alla meglio la sua dolorosa relazione, il frate diventava di mille colori, e ora alzava gli occhi al cielo, ora batteva i piedi. Terminata la storia, si coprì il volto con le mani, ed esclamò: \- o Dio benedetto! fino a quando...! \- Ma, senza compir la frase, voltandosi di nuovo alle donne: \- poverette! \- disse: \- Dio vi ha visitate. Povera Lucia!
@@ -816,6 +826,8 @@ Don Rodrigo intanto dava dell'occhiate al solo che stava zitto; e lo vedeva semp
 
 
 ## CAPITOLO VI
+
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-vi)
 
 
 \- In che posso ubbidirla? \- disse don Rodrigo, piantandosi in piedi nel mezzo della sala. Il suono delle parole era tale; ma il modo con cui eran proferite, voleva dir chiaramente: bada a chi sei davanti, pesa le parole, e sbrigati.
@@ -1050,6 +1062,8 @@ La disputa durava tuttavia, e non pareva vicina a finire, quando un calpestìo a
 
 ## CAPITOLO VII
 
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-vii)
+
 
 Il padre Cristoforo arrivava nell'attitudine d'un buon capitano che, perduta, senza sua colpa, una battaglia importante, afflitto ma non scoraggito, sopra pensiero ma non sbalordito, di corsa e non in fuga, si porta dove il bisogno lo chiede, a premunire i luoghi minacciati, a raccoglier le truppe, a dar nuovi ordini.
 
@@ -1279,6 +1293,8 @@ Zitti zitti, nelle tenebre, a passo misurato, usciron dalla casetta, e preser la
 
 ## CAPITOLO VIII
 
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-viii)
+
 
 « Carneade! Chi era costui? » ruminava tra sé don Abbondio seduto sul suo seggiolone, in una stanza del piano superiore, con un libricciolo aperto davanti, quando Perpetua entrò a portargli l'imbasciata. « Carneade! questo nome mi par bene d'averlo letto o sentito; doveva essere un uomo di studio, un letteratone del tempo antico: è un nome di quelli; ma chi diavolo era costui? » Tanto il pover'uomo era lontano da prevedere che burrasca gli si addensasse sul capo!
 
@@ -1440,6 +1456,8 @@ Di tal genere, se non tali appunto, erano i pensieri di Lucia, e poco diversi i 
 
 ## CAPITOLO IX
 
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-ix)
+
 
 L'urtar che fece la barca contro la proda, scosse Lucia, la quale, dopo aver asciugate in segreto le lacrime, alzò la testa, come se si svegliasse. Renzo uscì il primo, e diede la mano ad Agnese, la quale, uscita pure, la diede alla figlia; e tutt'e tre resero tristamente grazie al barcaiolo. \- Di che cosa? \- rispose quello: \- siam quaggiù per aiutarci l'uno con l'altro, \- e ritirò la mano, quasi con ribrezzo, come se gli fosse proposto di rubare, allorché Renzo cercò di farvi sdrucciolare una parte de' quattrinelli che si trovava indosso, e che aveva presi quella sera, con intenzione di regalar generosamente don Abbondio, quando questo l'avesse, suo malgrado, servito. Il baroccio era lì pronto; il conduttore salutò i tre aspettati, li fece salire, diede una voce alla bestia, una frustata, e via.
 
@@ -1522,6 +1540,8 @@ In capo a quattro o cinque lunghi giorni di prigionia, una mattina, Gertrude stu
 
 
 ## CAPITOLO X
+
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-x)
 
 
 Vi son de' momenti in cui l'animo, particolarmente de' giovani, è disposto in maniera che ogni poco d'istanza basta a ottenerne ogni cosa che abbia un'apparenza di bene e di sacrifizio: come un fiore appena sbocciato, s'abbandona mollemente sul suo fragile stelo, pronto a concedere le sue fragranze alla prim'aria che gli aliti punto d'intorno. Questi momenti, che si dovrebbero dagli altri ammirare con timido rispetto, son quelli appunto che l'astuzia interessata spia attentamente, e coglie di volo, per legare una volontà che non si guarda.
@@ -1641,6 +1661,8 @@ Il desiderio d'obbligare il padre guardiano, la compiacenza di proteggere, il pe
 
 
 ## CAPITOLO XI
+
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xi)
 
 
 Come un branco di segugi, dopo aver inseguita invano una lepre, tornano mortificati verso il padrone, co' musi bassi, e con le code ciondoloni, così, in quella scompigliata notte, tornavano i bravi al palazzotto di don Rodrigo. Egli camminava innanzi e indietro, al buio, per una stanzaccia disabitata dell'ultimo piano, che rispondeva sulla spianata. Ogni tanto si fermava, tendeva l'orecchio, guardava dalle fessure dell'imposte intarlate, pieno d'impazienza e non privo d'inquietudine, non solo per l'incertezza della riuscita, ma anche per le conseguenze possibili; perché era la più grossa e la più arrischiata a cui il brav'uomo avesse ancor messo mano. S'andava però rassicurando col pensiero delle precauzioni prese per distrugger gl'indizi, se non i sospetti. « In quanto ai sospetti », pensava, « me ne rido. Vorrei un po' sapere chi sarà quel voglioso che venga quassù a veder se c'è o non c'è una ragazza. Venga, venga quel tanghero, che sarà ben ricevuto. Venga il frate, venga. La vecchia? Vada a Bergamo la vecchia. La giustizia? Poh la giustizia! Il podestà non è un ragazzo, né un matto. E a Milano? Chi si cura di costoro a Milano? Chi gli darebbe retta? Chi sa che ci siano? Son come gente perduta sulla terra; non hanno né anche un padrone: gente di nessuno. Via, via, niente paura. Come rimarrà Attilio, domattina! Vedrà, vedrà s'io fo ciarle o fatti. E poi... se mai nascesse qualche imbroglio... che so io? qualche nemico che volesse cogliere quest'occasione,... anche Attilio saprà consigliarmi: c'è impegnato l'onore di tutto il parentado. » Ma il pensiero sul quale si fermava di più, perché in esso trovava insieme un acquietamento de' dubbi, e un pascolo alla passion principale, era il pensiero delle lusinghe, delle promesse che adoprerebbe per abbonire Lucia. « Avrà tanta paura di trovarsi qui sola, in mezzo a costoro, a queste facce, che... il viso più umano qui son io, per bacco... che dovrà ricorrere a me, toccherà a lei a pregare; e se prega. »
@@ -1776,6 +1798,8 @@ Dove ora sorge quel bel palazzo, con quell'alto loggiato, c'era allora, e c'era 
 
 ## CAPITOLO XII
 
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xii)
+
 
 Era quello il second'anno di raccolta scarsa. Nell'antecedente, le provvisioni rimaste degli anni addietro avevan supplito, fino a un certo segno, al difetto; e la popolazione era giunta, non satolla né affamata, ma, certo, affatto sprovveduta, alla messe del 1628, nel quale siamo con la nostra storia. Ora, questa messe tanto desiderata riuscì ancor più misera della precedente, in parte per maggior contrarietà delle stagioni (e questo non solo nel milanese, ma in un buon tratto di paese circonvicino); in parte per colpa degli uomini. Il guasto e lo sperperìo della guerra, di quella bella guerra di cui abbiam fatto menzione di sopra, era tale, che, nella parte dello stato più vicina ad essa, molti poderi più dell'ordinario rimanevano incolti e abbandonati da' contadini, i quali, in vece di procacciar col lavoro pane per sé e per gli altri, eran costretti d'andare ad accattarlo per carità. Ho detto: più dell'ordinario; perché le insopportabili gravezze, imposte con una cupidigia e con un'insensatezza del pari sterminate, la condotta abituale, anche in piena pace, delle truppe alloggiate ne' paesi, condotta che i dolorosi documenti di que' tempi uguagliano a quella d'un nemico invasore, altre cagioni che non è qui il luogo di mentovare, andavano già da qualche tempo operando lentamente quel tristo effetto in tutto il milanese: le circostanze particolari di cui ora parliamo, erano come una repentina esacerbazione d'un mal cronico. E quella qualunque raccolta non era ancor finita di riporre, che le provvisioni per l'esercito, e lo sciupinìo che sempre le accompagna, ci fecero dentro un tal vòto, che la penuria si fece subito sentire, e con la penuria quel suo doloroso, ma salutevole come inevitabile effetto, il rincaro.
 
@@ -1864,6 +1888,8 @@ Dalla piazza de' Mercanti, la marmaglia insaccò, per quell'altr'arco, nella via
 
 
 ## CAPITOLO XIII
+
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xiii)
 
 
 Lo sventurato vicario stava, in quel momento, facendo un chilo agro e stentato d'un desinare biascicato senza appetito, e senza pan fresco, e attendeva, con gran sospensione, come avesse a finire quella burrasca, lontano però dal sospettar che dovesse cader così spaventosamente addosso a lui. Qualche galantuomo precorse di galoppo la folla, per avvertirlo di quel che gli sovrastava. I servitori, attirati già dal rumore sulla porta, guardavano sgomentati lungo la strada, dalla parte donde il rumore veniva avvicinandosi. Mentre ascoltan l'avviso, vedon comparire la vanguardia: in fretta e in furia, si porta l'avviso al padrone: mentre questo pensa a fuggire, e come fuggire, un altro viene a dirgli che non è più a tempo. I servitori ne hanno appena tanto che basti per chiuder la porta. Metton la stanga, metton puntelli, corrono a chiuder le finestre, come quando si vede venire avanti un tempo nero, e s'aspetta la grandine, da un momento all'altro. L'urlìo crescente, scendendo dall'alto come un tuono, rimbomba nel vòto cortile; ogni buco della casa ne rintrona: e di mezzo al vasto e confuso strepito, si senton forti e fitti colpi di pietre alla porta.
@@ -1961,6 +1987,8 @@ Che avvenisse poi di questo suo proponimento non lo dice il nostro autore, il qu
 
 
 ## CAPITOLO XIV
+
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xiv)
 
 
 La folla rimasta indietro cominciò a sbandarsi, a diramarsi a destra e a sinistra, per questa e per quella strada. Chi andava a casa, a accudire anche alle sue faccende; chi s'allontanava, per respirare un po' al largo, dopo tante ore di stretta; chi, in cerca d'amici, per ciarlare de' gran fatti della giornata. Lo stesso sgombero s'andava facendo dall'altro sbocco della strada, nella quale la gente restò abbastanza rada perché quel drappello di spagnoli potesse, senza trovar resistenza, avanzarsi, e postarsi alla casa del vicario. Accosto a quella stava ancor condensato il fondaccio, per dir così, del tumulto; un branco di birboni, che malcontenti d'una fine così fredda e così imperfetta d'un così grand'apparato, parte brontolavano, parte bestemmiavano, parte tenevan consiglio, per veder se qualche cosa si potesse ancora intraprendere; e, come per provare, andavano urtacchiando e pigiando quella povera porta, ch'era stata di nuovo appuntellata alla meglio. All'arrivar del drappello, tutti coloro, chi diritto diritto, chi baloccandosi, e come a stento, se n'andarono dalla parte opposta, lasciando il campo libero a' soldati, che lo presero, e vi si postarono, a guardia della casa e della strada. Ma tutte le strade del contorno erano seminate di crocchi: dove c'eran due o tre persone ferme, se ne fermavano tre, quattro, venti altre: qui qualcheduno si staccava; là tutto un crocchio si moveva insieme: era come quella nuvolaglia che talvolta rimane sparsa, e gira per l'azzurro del cielo, dopo una burrasca; e fa dire a chi guarda in su: questo tempo non è rimesso bene. Pensate poi che babilonia di discorsi. Chi raccontava con enfasi i casi particolari che aveva visti; chi raccontava ciò che lui stesso aveva fatto; chi si rallegrava che la cosa fosse finita bene, e lodava Ferrer, e pronosticava guai seri per il vicario; chi, sghignazzando, diceva: \- non abbiate paura, che non l'ammazzeranno: il lupo non mangia la carne del lupo \-; chi più stizzosamente mormorava che non s'eran fatte le cose a dovere, ch'era un inganno, e ch'era stata una pazzia il far tanto chiasso, per lasciarsi poi canzonare in quella maniera.
@@ -2132,6 +2160,8 @@ A questa parola, abbassò la testa, e stette qualche tempo, come assorto in un p
 
 
 ## CAPITOLO XV
+
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xv)
 
 
 L'oste, vedendo che il gioco andava in lungo, s'era accostato a Renzo; e pregando, con buona grazia, quegli altri che lo lasciassero stare, l'andava scotendo per un braccio, e cercava di fargli intendere e di persuaderlo che andasse a dormire. Ma Renzo tornava sempre da capo col nome e cognome, e con le gride, e co' buoni figliuoli. Però quelle parole: letto e dormire, ripetute al suo orecchio, gli entraron finalmente in testa; gli fecero sentire un po' più distintamente il bisogno di ciò che significavano, e produssero un momento di lucido intervallo. Quel po' di senno che gli tornò, gli fece in certo modo capire che il più se n'era andato: a un di presso come l'ultimo moccolo rimasto acceso d'un'illuminazione, fa vedere gli altri spenti. Si fece coraggio; stese le mani, e le appuntellò sulla tavola; tentò, una e due volte, d'alzarsi; sospirò, barcollò; alla terza, sorretto dall'oste, si rizzò. Quello, reggendolo tuttavia, lo fece uscire di tra la tavola e la panca; e, preso con una mano un lume, con l'altra, parte lo condusse, parte lo tirò, alla meglio, verso l'uscio di scala. Lì Renzo, al chiasso de' saluti che coloro gli urlavan dietro, si voltò in fretta; e se il suo sostenitore non fosse stato ben lesto a tenerlo per un braccio, la voltata sarebbe stata un capitombolo; si voltò dunque, e, con l'altro braccio che gli rimaneva libero, andava trinciando e iscrivendo nell'aria certi saluti, a guisa d'un nodo di Salomone.
@@ -2341,6 +2371,8 @@ Un mormorìo favorevole, voci più chiare di protezione s'alzano in risposta: i 
 
 
 ## CAPITOLO XVI
+
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xvi)
 
 
 \- Scappa, scappa, galantuomo: lì c'è un convento, ecco là una chiesa; di qui, di là, \- si grida a Renzo da ogni parte. In quanto allo scappare, pensate se aveva bisogno di consigli. Fin dal primo momento che gli era balenato in mente una speranza d'uscir da quell'unghie, aveva cominciato a fare i suoi conti, e stabilito, se questo gli riusciva, d'andare senza fermarsi, fin che non fosse fuori, non solo della città, ma del ducato. « Perché », aveva pensato, « il mio nome l'hanno su' loro libracci, in qualunque maniera l'abbiano avuto; e col nome e cognome, mi vengono a prendere quando vogliono. » E in quanto a un asilo, non vi si sarebbe cacciato che quando avesse avuto i birri alle spalle. « Perché, se posso essere uccel di bosco », aveva anche pensato, « non voglio diventare uccel di gabbia. » Aveva dunque disegnato per suo rifugio quel paese nel territorio di Bergamo, dov'era accasato quel suo cugino Bortolo, se ve ne rammentate, che più volte l'aveva invitato a andar là. Ma trovar la strada, lì stava il male. Lasciato in una parte sconosciuta d'una città si può dire sconosciuta, Renzo non sapeva neppure da che porta s'uscisse per andare a Bergamo; e quando l'avesse saputo, non sapeva poi andare alla porta. Fu lì lì per farsi insegnar la strada da qualcheduno de' suoi liberatori; ma siccome nel poco tempo che aveva avuto per meditare su' casi suoi, gli eran passate per la mente certe idee su quello spadaio così obbligante, padre di quattro figliuoli, così, a buon conto, non volle manifestare i suoi disegni a una gran brigata, dove ce ne poteva essere qualche altro di quel conio; e risolvette subito d'allontanarsi in fretta di lì: che la strada se la farebbe poi insegnare, in luogo dove nessuno sapesse chi era, né il perché la domandasse. Disse a' suoi liberatori: \- grazie tante, figliuoli: siate benedetti, \- e, uscendo per il largo che gli fu fatto immediatamente, prese la rincorsa, e via; dentro per un vicolo, giù per una stradetta, galoppò un pezzo, senza saper dove. Quando gli parve d'essersi allontanato abbastanza, rallentò il passo, per non dar sospetto; e cominciò a guardare in qua e in là, per isceglier la persona a cui far la sua domanda, una faccia che ispirasse confidenza. Ma anche qui c'era dell'imbroglio. La domanda per sé era sospetta; il tempo stringeva; i birri, appena liberati da quel piccolo intoppo, dovevan senza dubbio essersi rimessi in traccia del loro fuggitivo; la voce di quella fuga poteva essere arrivata fin là; e in tali strette, Renzo dovette fare forse dieci giudizi fisionomici, prima di trovar la figura che gli paresse a proposito. Quel grassotto, che stava ritto sulla soglia della sua bottega, a gambe larghe, con le mani di dietro, con la pancia in fuori, col mento in aria, dal quale pendeva una gran pappagorgia, e che, non avendo altro che fare, andava alternativamente sollevando sulla punta de' piedi la sua massa tremolante, e lasciandola ricadere sui calcagni, aveva un viso di cicalone curioso, che, in vece di dar delle risposte, avrebbe fatto delle interrogazioni. Quell'altro che veniva innanzi, con gli occhi fissi, e col labbro in fuori, non che insegnar presto e bene la strada a un altro, appena pareva conoscer la sua. Quel ragazzotto, che, a dire il vero, mostrava d'esser molto sveglio, mostrava però d'essere anche più malizioso; e probabilmente avrebbe avuto un gusto matto a far andare un povero contadino dalla parte opposta a quella che desiderava. Tant'è vero che all'uomo impicciato, quasi ogni cosa è un nuovo impiccio! Visto finalmente uno che veniva in fretta, pensò che questo, avendo probabilmente qualche affare pressante, gli risponderebbe subito, senz'altre chiacchiere; e sentendolo parlar da sé, giudicò che dovesse essere un uomo sincero. Gli s'accostò, e disse: \- di grazia, quel signore, da che parte si va per andare a Bergamo?
@@ -2555,6 +2587,8 @@ A questo punto, l'oste, ch'era stato anche lui a sentire, andò verso l'altra ci
 
 ## CAPITOLO XVII
 
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xvii)
+
 
 Basta spesso una voglia, per non lasciar ben avere un uomo; pensate poi due alla volta, l'una in guerra coll'altra. Il povero Renzo n'aveva, da molte ore, due tali in corpo, come sapete: la voglia di correre, e quella di star nascosto: e le sciagurate parole del mercante gli avevano accresciuta oltremodo l'una e l'altra a un colpo. Dunque la sua avventura aveva fatto chiasso; dunque lo volevano a qualunque patto; chi sa quanti birri erano in campo per dargli la caccia! quali ordini erano stati spediti di frugar ne' paesi, nell'osterie, per le strade! Pensava bensì che finalmente i birri che lo conoscevano, eran due soli, e che il nome non lo portava scritto in fronte; ma gli tornavano in mente certe storie che aveva sentite raccontare, di fuggitivi colti e scoperti per istrane combinazioni, riconosciuti all'andare, all'aria sospettosa, ad altri segnali impensati: tutto gli faceva ombra. Quantunque, nel momento che usciva di Gorgonzola, scoccassero le ventiquattro, e le tenebre che venivano innanzi, diminuissero sempre più que' pericoli, ciò non ostante prese contro voglia la strada maestra, e si propose d'entrar nella prima viottola che gli paresse condur dalla parte dove gli premeva di riuscire. Sul principio, incontrava qualche viandante; ma, pieno la fantasia di quelle brutte apprensioni, non ebbe cuore d'abbordarne nessuno, per informarsi della strada. « Ha detto sei miglia, colui, \- pensava: \- se andando fuor di strada, dovessero anche diventar otto o dieci, le gambe che hanno fatte l'altre, faranno anche queste. Verso Milano non vo di certo; dunque vo verso l'Adda. Cammina, cammina, o presto o tardi ci arriverò. L'Adda ha buona voce; e, quando le sarò vicino, non ho più bisogno di chi me l'insegni. Se qualche barca c'è, da poter passare, passo subito, altrimenti mi fermerò fino alla mattina, in un campo, sur una pianta, come le passere: meglio sur una pianta, che in prigione. »
 
@@ -2677,6 +2711,8 @@ Tutto in fatti andò bene, e tanto a seconda delle promesse di Bortolo, che cred
 
 
 ## CAPITOLO XVIII
+
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xviii)
 
 
 Quello stesso giorno, 13 di novembre, arriva un espresso al signor podestà di Lecco, e gli presenta un dispaccio del signor capitano di giustizia, contenente un ordine di fare ogni possibile e più opportuna inquisizione, per iscoprire se un certo giovine nominato Lorenzo Tramaglino, filatore di seta, scappato dalle forze praedicti egregii domini capitanei, sia tornato, palam vel clam, al suo paese, ignotum quale per l'appunto, verum in territorio Leuci: quod si compertum fuerit sic esse, cerchi il detto signor podestà, quanta maxima diligentia fieri poterit, d'averlo nelle mani, e, legato a dovere, videlizet con buone manette, attesa l'esperimentata insufficienza de' manichini per il nominato soggetto, lo faccia condurre nelle carceri, e lo ritenga lì, sotto buona custodia, per farne consegna a chi sarà spedito a prenderlo; e tanto nel caso del sì, come nel caso del no, accedatis ad domum praedicti Laurentii Tramaliini; et, facta debita diligentia, quidquid ad rem repertum fuerit auferatis; et informationes de illius prava qualitate, vita, et complicibus sumatis; e di tutto il detto e il fatto, il trovato e il non trovato, il preso e il lasciato, diligenter referatis. Il signor podestà, dopo essersi umanamente cerziorato che il soggetto non era tornato in paese, fa chiamare il console del villaggio, e si fa condur da lui alla casa indicata, con gran treno di notaio e di birri. La casa è chiusa; chi ha le chiavi non c'è, o non si lascia trovare. Si sfonda l'uscio; si fa la debita diligenza, vale a dire che si fa come in una città presa d'assalto. La voce di quella spedizione si sparge immediatamente per tutto il contorno; viene agli orecchi del padre Cristoforo; il quale, attonito non meno che afflitto, domanda al terzo e al quarto, per aver qualche lume intorno alla cagione d'un fatto così inaspettato; ma non raccoglie altro che congetture in aria, e scrive subito al padre Bonaventura, dal quale spera di poter ricevere qualche notizia più precisa. Intanto i parenti e gli amici di Renzo vengono citati a deporre ciò che posson sapere della sua prava qualità: aver nome Tramaglino è una disgrazia, una vergogna, un delitto: il paese è sottosopra. A poco a poco, si viene a sapere che Renzo è scappato dalla giustizia, nel bel mezzo di Milano, e poi scomparso; corre voce che abbia fatto qualcosa di grosso; ma la cosa poi non si sa dire, o si racconta in cento maniere. Quanto più è grossa, tanto meno vien creduta nel paese, dove Renzo è conosciuto per un bravo giovine: i più presumono, e vanno susurrandosi agli orecchi l'uno con l'altro, che è una macchina mossa da quel prepotente di don Rodrigo, per rovinare il suo povero rivale. Tant'è vero che, a giudicar per induzione, e senza la necessaria cognizione de' fatti, si fa alle volte gran torto anche ai birbanti.
@@ -2845,6 +2881,8 @@ Attilio fece ancora qualche scusa, qualche promessa, qualche complimento; poi si
 
 ## CAPITOLO XIX
 
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xix)
+
 
 Chi, vedendo in un campo mal coltivato, un'erbaccia, per esempio un bel lapazio, volesse proprio sapere se sia venuto da un seme maturato nel campo stesso, o portatovi dal vento, o lasciatovi cader da un uccello, per quanto ci pensasse, non ne verrebbe mai a una conclusione. Così anche noi non sapremmo dire se dal fondo naturale del suo cervello, o dall'insinuazione d'Attilio, venisse al conte zio la risoluzione di servirsi del padre provinciale per troncare nella miglior maniera quel nodo imbrogliato. Certo è che Attilio non aveva detta a caso quella parola; e quantunque dovesse aspettarsi che, a un suggerimento così scoperto, la boria ombrosa del conte zio avrebbe ricalcitrato, a ogni modo volle fargli balenar dinanzi l'idea di quel ripiego, e metterlo sulla strada, dove desiderava che andasse. Dall'altra parte, il ripiego era talmente adattato all'umore del conte zio, talmente indicato dalle circostanze, che, senza suggerimento di chi si sia, si può scommettere che l'avrebbe trovato da sé. Si trattava che, in una guerra pur troppo aperta, uno del suo nome, un suo nipote, non rimanesse al di sotto: punto essenzialissimo alla riputazione del potere che gli stava tanto a cuore. La soddisfazione che il nipote poteva prendersi da sé, sarebbe stata un rimedio peggior del male, una sementa di guai; e bisognava impedirla, in qualunque maniera, e senza perder tempo. Comandargli che partisse in quel momento dalla sua villa; già non avrebbe ubbidito; e quand'anche avesse, era un cedere il campo, una ritirata della casa dinanzi a un convento. Ordini, forza legale, spauracchi di tal genere, non valevano contro un avversario di quella condizione: il clero regolare e secolare era affatto immune da ogni giurisdizione laicale; non solo le persone, ma i luoghi ancora abitati da esso: come deve sapere anche chi non avesse letta altra storia che la presente; che starebbe fresco. Tutto quel che si poteva contro un tale avversario era cercar d'allontanarlo, e il mezzo a ciò era il padre provinciale, in arbitrio del quale era l'andare e lo stare di quello.
 
@@ -2957,6 +2995,8 @@ Una mattina, don Rodrigo uscì a cavallo, in treno da caccia, con una piccola sc
 
 
 ## CAPITOLO XX
+
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xx)
 
 
 Il castello dell'innominato era a cavaliere a una valle angusta e uggiosa, sulla cima d'un poggio che sporge in fuori da un'aspra giogaia di monti, ed è, non si saprebbe dir bene, se congiunto ad essa o separatone, da un mucchio di massi e di dirupi, e da un andirivieni di tane e di precipizi, che si prolungano anche dalle due parti. Quella che guarda la valle è la sola praticabile; un pendìo piuttosto erto, ma uguale e continuato; a prati in alto; nelle falde a campi, sparsi qua e là di casucce. Il fondo è un letto di ciottoloni, dove scorre un rigagnolo o torrentaccio, secondo la stagione: allora serviva di confine ai due stati. I gioghi opposti, che formano, per dir così, l'altra parete della valle, hanno anch'essi un po' di falda coltivata; il resto è schegge e macigni, erte ripide, senza strada e nude, meno qualche cespuglio ne' fessi e sui ciglioni.
@@ -3072,6 +3112,8 @@ E partita che fu, si fermò alquanto alla finestra, con gli occhi fissi a quella
 
 
 ## CAPITOLO XXI
+
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xxi)
 
 
 La vecchia era corsa a ubbidire e a comandare, con l'autorità di quel nome che, da chiunque fosse pronunziato in quel luogo, li faceva spicciar tutti; perché a nessuno veniva in testa che ci fosse uno tanto ardito da servirsene falsamente. Si trovò infatti alla Malanotte un po' prima che la carrozza ci arrivasse; e vistala venire, uscì di bussola, fece segno al cocchiere che fermasse, s'avvicinò allo sportello; e al Nibbio, che mise il capo fuori, riferì sottovoce gli ordini del padrone.
@@ -3226,6 +3268,8 @@ A un tal dubbio, a un tal rischio, gli venne addosso una disperazione più nera,
 
 ## CAPITOLO XXII
 
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xxii)
+
 
 Poco dopo, il bravo venne a riferire che, il giorno avanti, il cardinal Federigo Borromeo, arcivescovo di Milano, era arrivato a ***, e ci starebbe tutto quel giorno; e che la nuova sparsa la sera di quest'arrivo ne' paesi d'intorno aveva invogliati tutti d'andare a veder quell'uomo; e si scampanava più per allegria, che per avvertir la gente. Il signore, rimasto solo, continuò a guardar nella valle, ancor più pensieroso. « Per un uomo! Tutti premurosi, tutti allegri, per vedere un uomo! E però ognuno di costoro avrà il suo diavolo che lo tormenti. Ma nessuno, nessuno n'avrà uno come il mio; nessuno avrà passata una notte come la mia! Cos'ha quell'uomo, per render tanta gente allegra? Qualche soldo che distribuirà così alla ventura... Ma costoro non vanno tutti per l'elemosina. Ebbene, qualche segno nell'aria, qualche parola... Oh se le avesse per me le parole che possono consolare! se...! Perché non vado anch'io? Perché no?... Anderò, anderò; e gli voglio parlare: a quattr'occhi gli voglio parlare. Cosa gli dirò? Ebbene, quello che, quello che... Sentirò cosa sa dir lui, quest'uomo! »
 
@@ -3280,6 +3324,8 @@ La domanda è ragionevole senza dubbio, e la questione, molto interessante; perc
 
 
 ## CAPITOLO XXIII
+
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xxiii)
 
 
 Il cardinal Federigo, intanto che aspettava l'ora d'andar in chiesa a celebrar gli ufizi divini, stava studiando, com'era solito di fare in tutti i ritagli di tempo; quando entrò il cappellano crocifero, con un viso alterato.
@@ -3455,6 +3501,8 @@ Quel volto, quelle parole, quell'atto, gli avevan dato la vita. Mise un sospiro,
 
 
 ## CAPITOLO XXIV
+
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xxiv)
 
 
 Lucia s'era risentita da poco tempo; e di quel tempo una parte aveva penato a svegliarsi affatto, a separar le torbide visioni del sonno dalle memorie e dall'immagini di quella realtà troppo somigliante a una funesta visione d'infermo. La vecchia le si era subito avvicinata, e, con quella voce forzatamente umile, le aveva detto: \- ah! avete dormito? Avreste potuto dormire in letto: ve l'ho pur detto tante volte ier sera \-. E non ricevendo risposta, aveva continuato, sempre con un tono di supplicazione stizzosa: \- mangiate una volta: abbiate giudizio. Uh come siete brutta! Avete bisogno di mangiare. E poi se, quando torna, la piglia con me?
@@ -3719,6 +3767,8 @@ Così terminò quella giornata, tanto celebre ancora quando scriveva il nostro a
 
 ## CAPITOLO XXV
 
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xxv)
+
 
 Il giorno seguente, nel paesetto di Lucia e in tutto il territorio di Lecco, non si parlava che di lei, dell'innominato, dell'arcivescovo e d'un altro tale, che, quantunque gli piacesse molto d'andar per le bocche degli uomini, n'avrebbe, in quella congiuntura, fatto volentieri di meno: vogliam dire il signor don Rodrigo.
 
@@ -3819,6 +3869,8 @@ E tacque in atto di chi aspetta.
 
 
 ## CAPITOLO XXVI
+
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xxvi)
 
 
 A una siffatta domanda, don Abbondio, che pur s'era ingegnato di risponder qualcosa a delle meno precise, restò lì senza articolar parola. E, per dir la verità, anche noi, con questo manoscritto davanti, con una penna in mano, non avendo da contrastare che con le frasi, né altro da temere che le critiche de' nostri lettori; anche noi, dico, sentiamo una certa ripugnanza a proseguire: troviamo un non so che di strano in questo mettere in campo, con così poca fatica, tanti bei precetti di fortezza e di carità, di premura operosa per gli altri, di sacrifizio illimitato di sé. Ma pensando che quelle cose erano dette da uno che poi le faceva, tiriamo avanti con coraggio.
@@ -3949,6 +4001,8 @@ Non si creda però che don Gonzalo, un signore di quella sorte, l'avesse proprio
 
 ## CAPITOLO XXVII
 
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xvii)
+
 
 Già più d'una volta c'è occorso di far menzione della guerra che allora bolliva, per la successione agli stati del duca Vincenzo Gonzaga, secondo di quel nome; ma c'è occorso sempre in momenti di gran fretta: sicché non abbiam mai potuto darne più che un cenno alla sfuggita. Ora però, all'intelligenza del nostro racconto si richiede proprio d'averne qualche notizia più particolare. Son cose che chi conosce la storia le deve sapere; ma siccome, per un giusto sentimento di noi medesimi, dobbiam supporre che quest'opera non possa esser letta se non da ignoranti, così non sarà male che ne diciamo qui quanto basti per infarinarne chi n'avesse bisogno.
 
@@ -4013,6 +4067,8 @@ Ora, perché i fatti privati che ci rimangon da raccontare, riescan chiari, dobb
 
 
 ## CAPITOLO XXVIII
+
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xxviii)
 
 
 Dopo quella sedizione del giorno di san Martino e del seguente, parve che l'abbondanza fosse tornata in Milano, come per miracolo. Pane in quantità da tutti i fornai; il prezzo, come nell'annate migliori; le farine a proporzione. Coloro che, in que' due giorni, s'erano addati a urlare o a far anche qualcosa di più, avevano ora (meno alcuni pochi stati presi) di che lodarsi: e non crediate che se ne stessero, appena cessato quel primo spavento delle catture. Sulle piazze, sulle cantonate, nelle bettole, era un tripudio palese, un congratularsi e un vantarsi tra' denti d'aver trovata la maniera di far rinviliare il pane. In mezzo però alla festa e alla baldanza, c'era (e come non ci sarebbe stata?) un'inquietudine, un presentimento che la cosa non avesse a durare. Assediavano i fornai e i farinaioli, come già avevan fatto in quell'altra fattizia e passeggiera abbondanza prodotta dalla prima tariffa d'Antonio Ferrer; tutti consumavano senza risparmio; chi aveva qualche quattrino da parte, l'investiva in pane e in farine; facevan magazzino delle casse, delle botticine, delle caldaie. Così, facendo a gara a goder del buon mercato presente, ne rendevano, non dico impossibile la lunga durata, che già lo era per sé, ma sempre più difficile anche la continuazione momentanea. Ed ecco che, il 15 di novembre, Antonio Ferrer, De orden de Su Excelencia, pubblicò una grida, con la quale, a chiunque avesse granaglie o farine in casa, veniva proibito di comprarne né punto né poco, e ad ognuno di comprar pane, per più che il bisogno di due giorni, sotto pene pecuniarie e corporali, all'arbitrio di Sua Eccellenza; intimazione a chi toccava per ufizio, e a ogni persona, di denunziare i trasgressori; ordine a' giudici, di far ricerche nelle case che potessero venir loro indicate; insieme però, nuovo comando a' fornai di tener le botteghe ben fornite di pane, sotto pena in caso di mancamento, di cinque anni di galera, et maggiore, all'arbitrio di S. E. Chi sa immaginarsi una grida tale eseguita, deve avere una bella immaginazione; e certo, se tutte quelle che si pubblicavano in quel tempo erano eseguite, il ducato di Milano doveva avere almeno tanta gente in mare, quanta ne possa avere ora la gran Bretagna.
@@ -4109,6 +4165,8 @@ Colico fu la prima terra del ducato, che invasero que' demòni; si gettarono poi
 
 
 ## CAPITOLO XXIX
+
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xxix)
 
 
 Qui, tra i poveri spaventati troviamo persone di nostra conoscenza.
@@ -4265,6 +4323,8 @@ Nello stesso tempo, aveva messo in moto altr'uomini e donne di servizio, o suoi 
 
 ## CAPITOLO XXX
 
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xxx)
+
 
 Quantunque il concorso maggiore non fosse dalla parte per cui i nostri tre fuggitivi s'avvicinavano alla valle, ma all'imboccatura opposta, con tutto ciò, cominciarono a trovar compagni di viaggio e di sventura, che da traverse e viottole erano sboccati o sboccavano nella strada. In circostanze simili, tutti quelli che s'incontrano, è come se si conoscessero. Ogni volta che il baroccio aveva raggiunto qualche pedone, si barattavan domande e risposte. Chi era scappato, come i nostri, senza aspettar l'arrivo de' soldati; chi aveva sentiti i tamburi o le trombe; chi gli aveva visti coloro, e li dipingeva come gli spaventati soglion dipingere.
 
@@ -4382,6 +4442,8 @@ Ma qui lasceremo da parte il pover'uomo: si tratta ben d'altro che di sue appren
 
 ## CAPITOLO XXXI
 
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xxxi)
+
 
 La peste che il tribunale della sanità aveva temuto che potesse entrar con le bande alemanne nel milanese, c'era entrata davvero, come è noto; ed è noto parimente che non si fermò qui, ma invase e spopolò una buona parte d'Italia. Condotti dal filo della nostra storia, noi passiamo a raccontar gli avvenimenti principali di quella calamità; nel milanese, s'intende, anzi in Milano quasi esclusivamente: ché della città quasi esclusivamente trattano le memorie del tempo, come a un di presso accade sempre e per tutto, per buone e per cattive ragioni. E in questo racconto, il nostro fine non è, per dir la verità, soltanto di rappresentar lo stato delle cose nel quale verranno a trovarsi i nostri personaggi; ma di far conoscere insieme, per quanto si può in ristretto, e per quanto si può da noi, un tratto di storia patria più famoso che conosciuto.
 
@@ -4461,6 +4523,8 @@ Ma parlare, questa cosa così sola, è talmente più facile di tutte quell'altre
 
 ## CAPITOLO XXXII
 
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xxxii)
+
 
 Divenendo sempre più difficile il supplire all'esigenze dolorose della circostanza, era stato, il 4 di maggio, deciso nel consiglio de' decurioni, di ricorrer per aiuto al governatore. E, il 22, furono spediti al campo due di quel corpo, che gli rappresentassero i guai e le strettezze della città: le spese enormi, le casse vote, le rendite degli anni avvenire impegnate, le imposte correnti non pagate, per la miseria generale, prodotta da tante cause, e dal guasto militare in ispecie; gli mettessero in considerazione che, per leggi e consuetudini non interrotte, e per decreto speciale di Carlo V, le spese della peste dovevan essere a carico del fisco: in quella del 1576 avere il governatore, marchese d'Ayamonte, non solo sospese tutte le imposizioni camerali, ma data alla città una sovvenzione di quaranta mila scudi della stessa Camera; chiedessero finalmente quattro cose: che l'imposizioni fossero sospese, come s'era fatto allora; la Camera desse danari; il governatore informasse il re, delle miserie della città e della provincia; dispensasse da nuovi alloggiamenti militari il paese già rovinato dai passati. Il governatore scrisse in risposta condoglianze, e nuove esortazioni: dispiacergli di non poter trovarsi nella città, per impiegare ogni sua cura in sollievo di quella; ma sperare che a tutto avrebbe supplito lo zelo di que' signori: questo essere il tempo di spendere senza risparmio, d'ingegnarsi in ogni maniera. In quanto alle richieste espresse, proueeré en el mejor modo que el tiempo y necesidades presentes permitieren. E sotto, un girigogolo, che voleva dire Ambrogio Spinola, chiaro come le sue promesse. Il gran cancelliere Ferrer gli scrisse che quella risposta era stata letta dai decurioni, con gran desconsuelo; ci furono altre andate e venute, domande e risposte; ma non trovo che se ne venisse a più strette conclusioni. Qualche tempo dopo, nel colmo della peste, il governatore trasferì, con lettere patenti, la sua autorità a Ferrer medesimo, avendo lui, come scrisse, da pensare alla guerra. La quale, sia detto qui incidentemente, dopo aver portato via, senza parlar de' soldati, un milion di persone, a dir poco, per mezzo del contagio, tra la Lombardia, il Veneziano, il Piemonte, la Toscana, e una parte della Romagna; dopo aver desolati, come s'è visto di sopra, i luoghi per cui passò, e figuratevi quelli dove fu fatta; dopo la presa e il sacco atroce di Mantova; finì con riconoscerne tutti il nuovo duca, per escludere il quale la guerra era stata intrapresa. Bisogna però dire che fu obbligato a cedere al duca di Savoia un pezzo del Monferrato, della rendita di quindici mila scudi, e a Ferrante duca di Guastalla altre terre, della rendita di sei mila; e che ci fu un altro trattato a parte e segretissimo, col quale il duca di Savoia suddetto cedé Pinerolo alla Francia: trattato eseguito qualche tempo dopo, sott'altri pretesti, e a furia di furberie.
 
@@ -4531,6 +4595,8 @@ I processi che ne vennero in conseguenza, non eran certamente i primi d'un tal g
 
 
 ## CAPITOLO XXXIII
+
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xxxiii)
 
 
 Una notte, verso la fine d'agosto, proprio nel colmo della peste, tornava don Rodrigo a casa sua, in Milano, accompagnato dal fedel Griso, l'uno de' tre o quattro che, di tutta la famiglia, gli eran rimasti vivi. Tornava da un ridotto d'amici soliti a straviziare insieme, per passar la malinconia di quel tempo: e ogni volta ce n'eran de' nuovi, e ne mancava de' vecchi. Quel giorno, don Rodrigo era stato uno de' più allegri; e tra l'altre cose, aveva fatto rider tanto la compagnia, con una specie d'elogio funebre del conte Attilio, portato via dalla peste, due giorni prima.
@@ -4781,6 +4847,8 @@ Verso sera, arriva a Greco, senza però saperne il nome; ma, tra un po' di memor
 
 ## CAPITOLO XXXIV
 
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xxxiv)
+
 
 In quanto alla maniera di penetrare in città, Renzo aveva sentito, così all'ingrosso, che c'eran ordini severissimi di non lasciar entrar nessuno, senza bulletta di sanità; ma che in vece ci s'entrava benissimo, chi appena sapesse un po' aiutarsi e cogliere il momento. Era infatti così; e lasciando anche da parte le cause generali, per cui in que' tempi ogni ordine era poco eseguito; lasciando da parte le speciali, che rendevano così malagevole la rigorosa esecuzione di questo; Milano si trovava ormai in tale stato, da non veder cosa giovasse guardarlo, e da cosa; e chiunque ci venisse, poteva parer piuttosto noncurante della propria salute, che pericoloso a quella de' cittadini.
 
@@ -4937,6 +5005,8 @@ Così, già sbalordito e stanco di veder miserie, il giovine arrivò alla porta 
 
 
 ## CAPITOLO XXXV
+
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xxxv)
 
 
 S'immagini il lettore il recinto del lazzeretto, popolato di sedici mila appestati; quello spazio tutt'ingombro, dove di capanne e di baracche, dove di carri, dove di gente; quelle due interminate fughe di portici, a destra e a sinistra, piene, gremite di languenti o di cadaveri confusi, sopra sacconi, o sulla paglia; e su tutto quel quasi immenso covile, un brulichìo, come un ondeggiamento; e qua e là, un andare e venire, un fermarsi, un correre, un chinarsi, un alzarsi, di convalescenti, di frenetici, di serventi. Tale fu lo spettacolo che riempì a un tratto la vista di Renzo, e lo tenne lì, sopraffatto e compreso. Questo spettacolo, noi non ci proponiam certo di descriverlo a parte a parte, né il lettore lo desidera; solo, seguendo il nostro giovine nel suo penoso giro, ci fermeremo alle sue fermate, e di ciò che gli toccò di vedere diremo quanto sia necessario a raccontar ciò che fece, e ciò che gli seguì.
@@ -5106,6 +5176,8 @@ Qui, senza dir altro, si separarono; uno tornò dond'era venuto; l'altro s'avvi�
 
 
 ## CAPITOLO XXXVI
+
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xxxvi)
 
 
 Chi avrebbe mai detto a Renzo, qualche ora prima, che, nel forte d'una tal ricerca, al cominciar de' momenti più dubbiosi e più decisivi, il suo cuore sarebbe stato diviso tra Lucia e don Rodrigo? Eppure era così: quella figura veniva a mischiarsi con tutte l'immagini care o terribili che la speranza o il timore gli mettevan davanti a vicenda, in quel tragitto; le parole sentite appiè di quel covile, si cacciavano tra i sì e i no, ond'era combattuta la sua mente; e non poteva terminare una preghiera per l'esito felice del gran cimento, senza attaccarci quella che aveva principiata là, e che lo scocco della campana aveva troncata.
@@ -5386,6 +5458,8 @@ Quando furono nella strada di mezzo, il frate gli strinse la mano, e disse: \- s
 
 ## CAPITOLO XXXVII
 
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xxxvii)
+
 
 Appena infatti ebbe Renzo passata la soglia del lazzeretto e preso a diritta, per ritrovar la viottola di dov'era sboccato la mattina sotto le mura, principiò come una grandine di goccioloni radi e impetuosi, che, battendo e risaltando sulla strada bianca e arida, sollevavano un minuto polverìo; in un momento, diventaron fitti; e prima che arrivasse alla viottola, la veniva giù a secchie. Renzo, in vece d'inquietarsene, ci sguazzava dentro, se la godeva in quella rinfrescata, in quel susurrìo, in quel brulichìo dell'erbe e delle foglie, tremolanti, gocciolanti, rinverdite, lustre; metteva certi respironi larghi e pieni; e in quel risolvimento della natura sentiva come più liberamente e più vivamente quello che s'era fatto nel suo destino.
 
@@ -5502,6 +5576,8 @@ E quella sua famosa libreria? È forse ancora dispersa su per i muriccioli.
 
 
 ## CAPITOLO XXXVIII
+
+[Vai al Riassunto](./i-promessi-sposi-riassunto.md#capitolo-xxxviii)
 
 
 Una sera, Agnese sente fermarsi un legno all'uscio. \- È lei, di certo! \- Era proprio lei, con la buona vedova. L'accoglienze vicendevoli se le immagini il lettore.
