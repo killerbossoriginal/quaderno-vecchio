@@ -14,12 +14,29 @@
 ### Direct Speach / Reported Speach
 (// discorso diretto/indiretto)
 
-Richiede un "salto indietro" nei tempi verbali.
+From direct to reported: Richiede un "salto indietro" nei tempi verbali.
 
 say + tell + object
 
-Ex:
-Mark told me he was living in France;
+Reporting verb
+- Infinite
+   - Advise
+   - Agree
+   - Claim
+   - Offer
+   - Promise
+   - Refuse
+   - Remind
+   - Threaten
+- -ING
+   - Accuse of
+   - Admit
+   - Apologise for
+   - Complain about
+   - Deny
+   - Insist on
+   - Suggest
+
 
 | Time From                  | Time To                 | Direct Speach Example                  | Reported Speach Example                                    |
 |----------------------------|-------------------------|----------------------------------------|------------------------------------------------------------|
@@ -29,22 +46,21 @@ Mark told me he was living in France;
 | Past Continuous            | Past Perfect Continuous | "Simon was coocking when Paul arrived" | Simon said(that) he **had been cooking** when Paul arrived |
 | Present Perfect            | Past Perfect            | "Jane has made a cake"                 | Jhon told me (that) Jade **had made** a cake               |
 | Present Perfect Continuous | Past Perfect Continuous | "Jane has been sleeping for two hours" | John told me that Jane **had been sleeping** for two hours |
-
-
-Time Changes
-| Time From    | Time To        | Esempio Time From           | Esempio Time To                                     |
-|--------------|----------------|-----------------------------|-----------------------------------------------------|
-| Yesterday    | The day before | Did you go out yesterday?   | He asked me if I gone out the day before.           |
-| Will         | Would          |                             |                                                     |
-| Can          | Could          |                             |                                                     |
-| Must/Have to | Had to         |                             |                                                     |
-| May          | Might          |                             |                                                     |
-| Should       | Should         |                             |                                                     |
-| Would        | Would          |                             |                                                     |
-| Could        | Could          |                             |                                                     |
-| Had To       | Had To         |                             |                                                     |
-| Used To      | Used To        | I used to live here         | She said she used to live here                      |
-|              |                | I went to the pub yesterday | He said that he have gone to the pub the day before |
+| Imperative                 | Infinite                | "Go Out"                               | He told me to go out                                       |
+| Not Imperative             | Not Infinite            | "Don't smoke"                          | He told me not to smoke                                    |
+| *Requests*                 | Asked                   | "Please help me with this luggage"     | She asked me th help her with that luggage                 |
+|                            |                         |                                        |                                                            |
+| Yesterday                  | The day before          | "Did you go out yesterday?"            | He asked me if I gone out the day before.                  |
+| Will                       | Would                   |                                        |                                                            |
+| Can                        | Could                   |                                        |                                                            |
+| Must/Have to               | Had to                  |                                        |                                                            |
+| May                        | Might                   |                                        |                                                            |
+| Should                     | Should                  |                                        |                                                            |
+| Would                      | Would                   |                                        |                                                            |
+| Could                      | Could                   |                                        |                                                            |
+| Had To                     | Had To                  |                                        |                                                            |
+| Used To                    | Used To                 | "I used to live here"                  | She said she used to live here                             |
+| Ex                         |                         | "I went to the pub yesterday"          | He said that he have gone to the pub the day before        |
 
 #### Questions
 ##### Yes/No questions
