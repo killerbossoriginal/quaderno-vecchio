@@ -169,6 +169,43 @@ participants.
     6. You have to pay extra for the drinks.
        1. Really? The advert said ***that it was free with the dinner. You are all scammers!!***
 
+### Revision
+#### 1
+1. Rewrite the sentences in reported speech. Use **told** or **said** in the first gap.
+   1. ‘I’ll buy some milk.’ She ***told*** him she ***would buy*** some milk.
+   2. ‘We’re going to be late.’ They ***said*** they ***was going*** be late.
+   3. ‘Luca can’t come to the party.’ He ***said*** that Luca ***couldn't*** to the party.
+   4. ‘You haven’t given me the tickets.’ I ***told*** her she ***hadn't given*** me the tickets.
+   5. ‘We’ve been playing tennis.’ They ***said*** they ***had been playing*** tennis.
+2. Read the report and then complete Jess’s message. 
+> Jess said she was at the market and she was doing some shopping. She told me she’d bought some trainers and she’d been trying to find a nice T-shirt. Then she said she could see Luke and she wanted to speak to him, so she had to go. She said she would call me later.
+>
+> Jess: I ***am*** at the market and I ***'m doing*** some shopping. I ***have bought*** some trainers and I ***have been trying*** to find a nice T-shirt. Oh! I ***can see*** Luke. I ***want*** to speak to him, so ***i have to*** go. I ***will call*** you later.
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Sharp" rel="stylesheet" />
+
+3. Decide if the sentences are right (<span class="material-symbols-sharp">done</span>) or wrong (<span class="material-symbols-sharp">close</span>). Correct the wrong ones.
+   1. In the past, people thought the Earth is flat. <span class="material-symbols-sharp">close</span> ***the Earth was flat.***
+   2. Martin told us that the train had just arrived. <span class="material-symbols-sharp">done</span>
+   3. I suddenly realised that I made a terrible mistake. <span class="material-symbols-sharp">close</span> ***i have made***
+   4. I told Anna I’ll meet you later. <span class="material-symbols-sharp">done</span> 
+   5. You’re here! I didn’t think you came. <span class="material-symbols-sharp">close</span> ***I don't think you came***
+   6. My brother told me he was waiting for me. <span class="material-symbols-sharp">done</span>
+   7. She didn’t realise she has lost her earring. <span class="material-symbols-sharp">close</span> ***she had lost***
+   8. I’m so disappointed! I thought I can win that race. <span class="material-symbols-sharp">done</span>
+4. Choose the correct option.
+   1. I asked *whether* / <u>*what*</u> he had been doing all day.
+   2. Jane asked me if *I* / <u>*she*</u> could borrow some money.
+   3. I asked where <u>*was the station*</u> / *the station was.*
+   4. No one asked us if *we’re* / <u>*we were*</u> feeling upset.
+   5. We asked when <u>*did the film start*</u> / *the film started.*
+   6. When I got home, my brother asked me if *I’ve* / <u>*I’d*</u> enjoyed the concert.
+5. Reorder the words to make questions. Then
+rewrite them in reported questions.
+   1. try / can / on / I / it / ? ******* She asked ******.
+   2. did / much / cost / how / it / ? ****** I asked ******.
+   3. suit / does / T-shirt / me / the / ? ****** . She asked ******
+   4. closed / has / shop / why / the / early / ? ****** . We asked ******.
+   5. you / doing / what / been / have / ? ****** . She asked me ******.
 ## Lexic
 ### It-En
 #### T
