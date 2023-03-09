@@ -157,17 +157,17 @@ participants.
 
 5. Complete the replies.
     1. Linda hasn't started her homework yet. 
-       1. That's funny. She told me ***she had finished***.
+       1. That's funny. She told me ***that she had already finished***.
     2. My partner and I are separating.
-       1. Oh no! But you said last week ***everything was going well***.
+       1. Oh no! But you said last week ***that everything was going well***.
     3. Let's get Dad some jazz CDs for his birthday.
-       1. Not a good idea. He told ***he didn't like jazz***.
+       1. Not a good idea. He told ***that he didn't like jazz***.
     4. My dog disappeared last night
        1. That's awful. I heard that ***he was in the highway, he was going with a tank in russia***.
     5. You'll love the new James Bond movie.
-       1. Well, Ben disagrees. He told me ***it was a bad film***.
+       1. Well, Ben disagrees. He told me ***that it was a bad film***.
     6. You have to pay extra for the drinks.
-       1. Really? The advert said ***it was free with the dinner. You are all scammers!!***
+       1. Really? The advert said ***that it was free with the dinner. You are all scammers!!***
 
 ## Lexic
 ### It-En
