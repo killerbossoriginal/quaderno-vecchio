@@ -237,5 +237,7 @@ Rimane solo la penisola italica nell'impero romano d'occidente.
 ## Giustiniano I (527-565)
 Prova a riacquisire tutte "le cose perse" alla caduta dell'impero d'occidente, per continuare a mantenere l'egemonia sulle rotte commerciali.
 
+Giustignano all'inizio fece riconquistare l'italia, distruggendo i goti (guerra greco-gotica). Il dominio in italia durò solo 15 anni (dopo arrivarono i longobardi)
+
 Crea il **Corpus Iuris Civilis**
 > Il corpus iuris civilis è ancora oggi la base del diritto civile. Viene studiato a giurisprudenza.
