@@ -156,6 +156,26 @@ Porterei
 E' -> costutuisce -> può classificare
  \-> si divide
 ```
+6. - 
+```txt
+è stato contattato
+\-> vorrebbe pubblicare -> ambientato
+```
+7. - 
+```txt
+si riposano -> è insopportabile -> attendono
+\-> impedire
+```
+8. - 
+```txt
+Ho scoperto
+\-> è bella -> era stata descritta
+                \-> si erano recati
+                     \-> per festeggiare
+```
+9. - 
+```txt
+```
 10. - 
 ```txt
 Ha dimenticato -> ha trovato
