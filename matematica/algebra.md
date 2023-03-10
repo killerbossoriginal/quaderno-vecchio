@@ -3,10 +3,25 @@
 [Indietro](./matematica.md)
 
 ## Legenda
-- [Frazioni Algebriche](#frazioni-algebriche)
-- [Razionalizzazione](#razionalizzazione)
-- [Radicali Doppi](#radicali-doppi)
-- [Esercizi](#esercizi)
+- [Matematica](#matematica)
+  - [Legenda](#legenda)
+  - [Frazioni Algebriche](#frazioni-algebriche)
+  - [Razionalizzazione](#razionalizzazione)
+  - [Radicali Doppi](#radicali-doppi)
+  - [Piano Cartesiano](#piano-cartesiano)
+  - [Rette](#rette)
+  - [Esercizi](#esercizi)
+    - [Pagina 871](#pagina-871)
+      - [Esercizio 222](#esercizio-222)
+        - [a](#a)
+        - [b](#b)
+        - [c](#c)
+        - [d](#d)
+    - [Pagina 872](#pagina-872)
+      - [Esercizio 244](#esercizio-244)
+    - [Pagina 879](#pagina-879)
+      - [Esercizio 328](#esercizio-328)
+      - [Esercizio 332](#esercizio-332)
 
 
 ## Frazioni Algebriche
@@ -24,11 +39,6 @@ $ y = mx + q $
 con $m$ come inclinazione
 
 ## Esercizi
-
-- [Pagina 871](#pagina-871)
-  - [Esercizio 222](#esercizio-222)
-- [Pagina 872](#pagina-872)
-  - [Esercizio 244](#esercizio-244)
 
 ### Pagina 871
 #### Esercizio 222
@@ -143,3 +153,14 @@ y=\frac{40}{3}
 $$
 
 Si incontrano dopo 20 minuti a $\frac{40}{3}*10^{3}m$
+
+### Pagina 879
+#### Esercizio 328
+![Esercizio](./algebra/879.328.png)
+
+$$
+y = 0x + 2
+$$
+
+#### Esercizio 332
+![Esercizio](./algebra/879.332.png)
