@@ -46,5 +46,50 @@ Assumendo che "a" sia un nome che rispetta la regola 1,
 >a = 'void' o argomenti (..)
 */
 ```
+### Return
+Return restituisce il valore specificato (che deve essere dello stesso tipo della funzione) e termina la funzione.
+- quello che è scritto dopo non viene eseguito
+
+
+### Funzioni che **non** restituiscono valori
+```cpp
+#include <iostream>
+using namespace std;
+
+void a(/*(.) >a*/) {
+    cout >> "ciao";
+    return 0;
+}
+
+int main() {
+    saluta()
+}
+
+// >a = 'void' o argomenti (..)
+```
+### Funzioni che restituiscono valori
+
+> **Se la funzione non è di tipo void allora deve terminare con return -valore-; del tipo della funzione**
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int uno() {
+    return 1;
+}
+
+int main() {
+    int ciao = uno();
+
+    cout << ciao;
+    cout << uno();
+
+    /* Out:
+        1
+        1
+    */
+}
+```
 
 <!-- # ` {} [] -->
