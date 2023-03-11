@@ -1,7 +1,7 @@
 # Informatica
 [Indietro](./../index.md)
 ## Linguaggi di programmazione
-- [C++](./informatica/cpp.md)
+- [C++](./programming/cpp.md)
 
 ## Definizioni
 - Programmazione imperativa
