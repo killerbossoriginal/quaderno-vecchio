@@ -158,9 +158,13 @@ Si incontrano dopo 20 minuti a $\frac{40}{3}*10^{3}m$
 #### Esercizio 328
 ![Esercizio](./algebra/879.328.png)
 
-$$
-y = 0x + 2
-$$
+$A(2;-1) m=0, m=3, m=-2$
+$$ -1=2n+q $$
+$$ q=-2n-1 $$
+$$ y=mx-2n-1 $$
+$$ x=2 $$
 
 #### Esercizio 332
 ![Esercizio](./algebra/879.332.png)
+
+$$ M(\frac{5+(-4)}{2}, \frac{-6+2}{2}) \rightarrow M(\frac{1}{2}, -2) \rightarrow y+2=m(x-\frac{1}{2}) \rightarrow y=mx-\frac{1}{2}m-2 \text{ v } x=\frac{1}{2} $$
