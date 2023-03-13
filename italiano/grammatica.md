@@ -93,15 +93,30 @@ Passaggi per trovarla:
 Tipi:
 1. Copulativa
    1. E
-   2. Nè
+   2. Nè (!richiede una negazione nella reggente)
 2. Avversativa
    1. Ma
-3. Sostitutiva
+   2. Però
+   3. Tuttavia
+   4. Non di meno
+   5. Bensì
+3. Sostitutiva (=>avversativa)
+   1. anzi
 4. Disgiuntiva
+   1. O
+   2. Oppure
 5. Conclusiva
+   1. Quindi
+   2. Perciò
+   3. Dunque
 6. Esplicativa
+   1. Cioé
+   2. Ossia
+   3. Infatti
 7. Correlativa
    1. sia ... sia ...
+   2. o ... o ...
+   3. (etc)
 
 ### Esercizi
 #### Esercizio 58 pag 627
