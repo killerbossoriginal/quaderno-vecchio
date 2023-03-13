@@ -40,6 +40,43 @@ con $m$ come inclinazione
 
 ## Esercizi
 
+### Pagina 717
+#### Esercizio 459
+![Esercizio](./algebra/717.459.png)
+
+$$ 
+D =
+\begin{bmatrix} 
+2a & -6
+\\
+-3a & +6
+\end{bmatrix}
+= 12a-18a = -6a
+$$
+
+$$
+Dx =
+\begin{bmatrix}
+5a & -6
+\\
+20a & +6
+\end{bmatrix}
+= 30a + 120a = 150a
+$$
+
+$$
+Dx =
+\begin{bmatrix}
+2a & 5a
+\\
+-3a & 20a
+\end{bmatrix}
+= 40a^2 + 15a^2 = 55a^2
+$$
+
+$$ x = \frac{150a}{-6a} = -25 $$
+$$ y = \frac{55a^2}{-6a} = -\frac{55}{6}a $$
+$$ a \ne 0 $$
 ### Pagina 871
 #### Esercizio 222
 ![Esercizio](./algebra/871.222.png)
