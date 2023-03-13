@@ -201,11 +201,25 @@ participants.
    6. When I got home, my brother asked me if *I’ve* / <u>*I’d*</u> enjoyed the concert.
 5. Reorder the words to make questions. Then
 rewrite them in reported questions.
-   1. try / can / on / I / it / ? ******* She asked ******.
-   2. did / much / cost / how / it / ? ****** I asked ******.
-   3. suit / does / T-shirt / me / the / ? ****** . She asked ******
-   4. closed / has / shop / why / the / early / ? ****** . We asked ******.
-   5. you / doing / what / been / have / ? ****** . She asked me ******.
+   1. try / can / on / I / it / ? ****** She asked ******.
+   2. did / much / cost / how / it / ? ***How much did it cost?*** I asked ***how much did it costed***.
+   3. suit / does / T-shirt / me / the / ? ***Does the T-shirt suit me?*** . She asked ***if the T-shirt suitted her***
+   4. closed / has / shop / why / the / early / ? ***Why the shop has closed early*** . We asked ***why the shop has closed early***.
+   5. you / doing / what / been / have / ? ***have you been doing?*** . She asked me ***what had he been doing***.
+6. Rewrite the direct speech in reported speech.
+- Sam: Did Lucy and Jack go to the play rehearsal? 
+- Ella: No, I haven’t seen them since Monday.
+- Sam: I must get in touch with them. What do they
+do after school? 
+- Ella: I’m not sure, but I think Jack’s been training at the gym lately. 
+- Sam: OK, I’ll try the gym. Can you drive me there?
+
+
+Sam asked Ella ***if Lucy and Jack went*** to the play rehearsal.
+Ella said ***she hadn't seen them*** since Monday.
+Sam said ***he must get*** in touch with them and he asked Ella ***what did they did*** after school.
+Ella replied that ***she wasn't sure*** but she thought that Jack ***was been training*** at the gym lately.
+Sam said ***he would try*** the gym and he asked Ella ***if he could drive he*** there.
 ## Lexic
 ### It-En
 #### T
