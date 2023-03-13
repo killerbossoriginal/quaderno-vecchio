@@ -11,6 +11,9 @@
   - [Piano Cartesiano](#piano-cartesiano)
   - [Rette](#rette)
   - [Esercizi](#esercizi)
+    - [Pagina 717](#pagina-717)
+      - [Esercizio 459](#esercizio-459)
+      - [Esercizio 460](#esercizio-460)
     - [Pagina 871](#pagina-871)
       - [Esercizio 222](#esercizio-222)
         - [a](#a)
@@ -22,6 +25,11 @@
     - [Pagina 879](#pagina-879)
       - [Esercizio 328](#esercizio-328)
       - [Esercizio 332](#esercizio-332)
+    - [Pagina 880](#pagina-880)
+      - [Esercizio 337](#esercizio-337)
+        - [a](#a-1)
+        - [b](#b-1)
+        - [c](#c-1)
 
 
 ## Frazioni Algebriche
@@ -65,7 +73,7 @@ Dx =
 $$
 
 $$
-Dx =
+Dy =
 \begin{bmatrix}
 2a & 5a
 \\
@@ -77,6 +85,48 @@ $$
 $$ x = \frac{150a}{-6a} = -25 $$
 $$ y = \frac{55a^2}{-6a} = -\frac{55}{6}a $$
 $$ a \ne 0 $$
+#### Esercizio 460
+![Esercizio](./algebra/717.460.png)
+$$
+D = 
+\begin{bmatrix}
+1 & 4
+\\
+a & a
+\end{bmatrix}
+= 1a - 4a = -3a
+$$
+
+$$
+D_x =
+\begin{bmatrix}
+2 & 4
+\\
+0 & a
+\end{bmatrix}
+= 2a - 0 = 2a
+$$
+
+$$
+D_y =
+\begin{bmatrix}
+1 & 2
+\\
+a & 0
+\end{bmatrix}
+= 0 - 2a = -2a
+$$
+
+$$
+x = \frac{2a}{-3a} = -\frac{2}{3}
+$$
+
+$$
+y = \frac{-2a}{-3a} = \frac{2}{3}
+$$
+
+Presupponendo $a \ne 0$
+
 ### Pagina 871
 #### Esercizio 222
 ![Esercizio](./algebra/871.222.png)
@@ -205,3 +255,89 @@ $$ x=2 $$
 ![Esercizio](./algebra/879.332.png)
 
 $$ M(\frac{5+(-4)}{2}, \frac{-6+2}{2}) \rightarrow M(\frac{1}{2}, -2) \rightarrow y+2=m(x-\frac{1}{2}) \rightarrow y=mx-\frac{1}{2}m-2 \text{ v } x=\frac{1}{2} $$
+
+### Pagina 880
+#### Esercizio 337
+![Esercizio](./algebra/880.337.png)
+
+$$ Q(-1, 2) $$
+$$ y = mx+q $$
+$$ 2 = m*(-1)+q $$
+$$ 2 - m*(-1) = q $$
+$$ q = 2 + m$$
+
+
+##### a
+$$
+\begin{cases}
+q = 2 + m
+\\
+-3 = m0 + q
+\end{cases}
+$$
+$$
+\begin{cases}
+q = 2 + m
+\\
+-3 = q
+\end{cases}
+$$
+$$
+\begin{cases}
+-3 = 2 + m
+\\
+-3 = q
+\end{cases}
+$$
+$$
+\begin{cases}
+m = -5
+\\
+-3 = q
+\end{cases}
+$$
+$$
+y = -5x - 3
+$$
+
+##### b
+Essere paralleli all'asse delle x vuol dire essere perpendicolari all'asse delle y, quindi l'equazione è $y=q$ con $q$ numero noto. Essendo che il componente y di $Q$ è un punto per cui la retta deve passare per forza allora $Q = q$ in quanto è il punto più lontano di una retta, che deve essere parallela per ipotesi.
+
+##### c
+L'essere perpendicolare a un asse di un segmento vuol dire essere paralleli al segmento in quanto che l'asse è sempre perpendicolare al segmento.
+
+$$
+A(0, 1) | B(4, 0)
+$$
+
+$$
+\begin{cases}
+1 = m0 + q
+\\
+0 = m4 + q
+\end{cases}
+$$
+$$
+\begin{cases}
+q = 1
+\\
+q = 0 - m4
+\end{cases}
+$$
+$$
+\begin{cases}
+q = 1
+\\
+1 = -m4
+\end{cases}
+$$
+$$
+\begin{cases}
+q = 1
+\\
+-\frac{1}{4} = m
+\end{cases}
+$$
+$$
+y = -\frac{1}{4}x+1
+$$
