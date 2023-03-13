@@ -5,12 +5,19 @@
 - [Fisica](#fisica)
   - [Teoria](#teoria)
     - [Grandezze](#grandezze)
+    - [Energia](#energia)
+      - [Energia Cinetica](#energia-cinetica)
   - [Esercizi](#esercizi)
     - [Pagina 429](#pagina-429)
       - [Esercizio 17](#esercizio-17)
       - [Esercizio 18](#esercizio-18)
       - [Esercizio 19](#esercizio-19)
       - [Esercizio 22](#esercizio-22)
+    - [Pagina 430](#pagina-430)
+      - [Esercizio 29](#esercizio-29)
+      - [Esercizio 30](#esercizio-30)
+      - [Esercizio 32](#esercizio-32)
+      - [Esercizio 33](#esercizio-33)
 
 ## Teoria
 
@@ -50,14 +57,22 @@ Si misura in $J$ oule
 $$K_{\text{finale}}-K_{\text{iniziale}} = L \text{ (Lavoro)}$$
 ## Esercizi
 
-- [429](#pagina-429)
-  - [17](#esercizio-17)
-  - [18](#esercizio-18)
-  - [19](#esercizio-19)
-  - [22](#esercizio-22)
-- [430](#pagina-430)
-  - [29](#esercizio-29)
-  - [32](#esercizio-32)
+- [Fisica](#fisica)
+  - [Teoria](#teoria)
+    - [Grandezze](#grandezze)
+    - [Energia](#energia)
+      - [Energia Cinetica](#energia-cinetica)
+  - [Esercizi](#esercizi)
+    - [Pagina 429](#pagina-429)
+      - [Esercizio 17](#esercizio-17)
+      - [Esercizio 18](#esercizio-18)
+      - [Esercizio 19](#esercizio-19)
+      - [Esercizio 22](#esercizio-22)
+    - [Pagina 430](#pagina-430)
+      - [Esercizio 29](#esercizio-29)
+      - [Esercizio 30](#esercizio-30)
+      - [Esercizio 32](#esercizio-32)
+      - [Esercizio 33](#esercizio-33)
 
 ### Pagina 429
 #### Esercizio 17
@@ -105,6 +120,18 @@ $ V=12,5\frac{m}{s} $
 
 $ m = 190kg $
 
+#### Esercizio 30
+![Esercizio](./media/430.30.png)
+$$
+(680t = 680000kg)*9.8\frac{m}{s^2} = 6664000N
+$$
+$$
+54\frac{km}{h} - 36 \frac{km}{h} = 18 \frac{km}{h}
+$$
+$$
+F= 18
+$$
+
 #### Esercizio 32
 ![Esercizio](./media/430.32.png)
 $ M = 2300kg $
@@ -118,3 +145,25 @@ $ K = \frac{1}{2}m*V^{2} = \frac{1}{2}*2300*(27.8\frac{m}{s})^{2} = 887000J $
 $ F * s = K = 887000J $
 
 $ L = \frac{887000J}{40m} = 22 * 10^{3}N $
+
+#### Esercizio 33
+![Esercizio](./media/430.33.1.png)
+$$
+K = \frac{1}{2}(65m/s)^2*0.032kg = 67.6J
+$$
+![Esercizio](media/430.33.2.png)
+
+Ricordando che
+$$
+N = m*a
+$$
+e che
+$$
+J = N*m
+$$
+
+quindi 
+
+$$
+\frac{68J}{0.36m} = 187.7N
+$$
