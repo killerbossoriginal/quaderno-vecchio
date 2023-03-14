@@ -339,5 +339,62 @@ q = 1
 \end{cases}
 $$
 $$
-y = -\frac{1}{4}x+1
+y = -\frac{1}{4}x-\frac{1}{4}+1
+\\
+\downarrow
+\\
+\text{Perchè l'equazione di un fascio di rette è } y=mx+m+q
+$$
+
+##### d
+$$
+\begin{cases}
+y = mx + m + 2
+\\
+x = 0
+\end{cases}
+\\
+\downarrow
+\\
+\begin{cases}
+y = m + 2
+\\
+x = 0
+\end{cases}
+\\
+\downarrow
+\\
+F(0; m + 2)
+$$
+Facciamo lo stesso con y=0
+$$
+\begin{cases}
+y = mx + m + 2
+\\
+y = 0
+\end{cases}
+\\
+\downarrow
+\\
+\begin{cases}
+0 = mx + m + 2
+\\
+y = 0
+\end{cases}
+\\
+\downarrow
+\\
+\begin{cases}
+x = -1 - \frac{2}{m}
+\\
+y = 0
+\end{cases}
+\\
+\downarrow
+\\
+G(-1-\frac{2}{m}; 0)
+$$
+Troviamo il punto medio tra F e G con la solita formula $M(\frac{x_f + x_g}{2}; \frac{y_f+y_g}{2})$
+$$
+M(-\frac{m+2}{2m};\frac{m+2}{2})-\frac{n+2}{2n}=\frac{3}{2} \rightarrow -\frac{n+2}{n} = 3 \rightarrow -n-2 = 3n \rightarrow 4n = -2 \rightarrow n = -\frac{1}{2}
 $$
