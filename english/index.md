@@ -85,7 +85,7 @@ If / wheather (se)
 ```
 
 ### Tell VS Say
-`<soggetto>` tell `<oggetto>` `<cosa?>`
+`<soggetto>` tell `<oggetto>` `<cosa>`
 
 `<soggetto>` say `<cosa>`
 
@@ -173,8 +173,8 @@ participants.
 #### 1
 1. Rewrite the sentences in reported speech. Use **told** or **said** in the first gap.
    1. ‘I’ll buy some milk.’ She ***told*** him she ***would buy*** some milk.
-   2. ‘We’re going to be late.’ They ***said*** they ***was going*** be late.
-   3. ‘Luca can’t come to the party.’ He ***said*** that Luca ***couldn't*** to the party.
+   2. ‘We’re going to be late.’ They ***said*** they ***were going*** be late.
+   3. ‘Luca can’t come to the party.’ He ***said*** that Luca ***couldn't come*** to the party.
    4. ‘You haven’t given me the tickets.’ I ***told*** her she ***hadn't given*** me the tickets.
    5. ‘We’ve been playing tennis.’ They ***said*** they ***had been playing*** tennis.
 2. Read the report and then complete Jess’s message. 
@@ -195,16 +195,16 @@ participants.
 4. Choose the correct option.
    1. I asked *whether* / <u>*what*</u> he had been doing all day.
    2. Jane asked me if *I* / <u>*she*</u> could borrow some money.
-   3. I asked where <u>*was the station*</u> / *the station was.*
+   3. I asked where *was the station* / <u>*the station was.*</u>
    4. No one asked us if *we’re* / <u>*we were*</u> feeling upset.
-   5. We asked when <u>*did the film start*</u> / *the film started.*
+   5. We asked when *did the film start* / <u>*the film started.*</u>
    6. When I got home, my brother asked me if *I’ve* / <u>*I’d*</u> enjoyed the concert.
 5. Reorder the words to make questions. Then
 rewrite them in reported questions.
-   1. try / can / on / I / it / ? ****** She asked ******.
-   2. did / much / cost / how / it / ? ***How much did it cost?*** I asked ***how much did it costed***.
+   1. try / can / on / I / it / ? ***Can i try it on?*** She asked ***if she could try it on***.
+   2. did / much / cost / how / it / ? ***How much did it cost?*** I asked ***him how much it had cost***.
    3. suit / does / T-shirt / me / the / ? ***Does the T-shirt suit me?*** . She asked ***if the T-shirt suitted her***
-   4. closed / has / shop / why / the / early / ? ***Why the shop has closed early*** . We asked ***why the shop has closed early***.
+   4. closed / has / shop / why / the / early / ? ***Why has the shop closed early*** . We asked ***why the shop has closed early***.
    5. you / doing / what / been / have / ? ***have you been doing?*** . She asked me ***what had he been doing***.
 6. Rewrite the direct speech in reported speech.
 - Sam: Did Lucy and Jack go to the play rehearsal? 
