@@ -340,9 +340,7 @@ q = 1
 $$
 $$
 y = -\frac{1}{4}x-\frac{1}{4}+1
-\\
-\downarrow
-\\
+\rightarrow
 \text{Perchè l'equazione di un fascio di rette è } y=mx+m+q
 $$
 
@@ -353,17 +351,13 @@ y = mx + m + 2
 \\
 x = 0
 \end{cases}
-\\
-\downarrow
-\\
+\rightarrow
 \begin{cases}
 y = m + 2
 \\
 x = 0
 \end{cases}
-\\
-\downarrow
-\\
+\rightarrow
 F(0; m + 2)
 $$
 Facciamo lo stesso con y=0
@@ -373,25 +367,19 @@ y = mx + m + 2
 \\
 y = 0
 \end{cases}
-\\
-\downarrow
-\\
+\rightarrow
 \begin{cases}
 0 = mx + m + 2
 \\
 y = 0
 \end{cases}
-\\
-\downarrow
-\\
+\rightarrow
 \begin{cases}
 x = -1 - \frac{2}{m}
 \\
 y = 0
 \end{cases}
-\\
-\downarrow
-\\
+\rightarrow
 G(-1-\frac{2}{m}; 0)
 $$
 Troviamo il punto medio tra F e G con la solita formula $M(\frac{x_f + x_g}{2}; \frac{y_f+y_g}{2})$
