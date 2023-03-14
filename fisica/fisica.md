@@ -134,22 +134,22 @@ $$
 
 #### Esercizio 32
 ![Esercizio](./media/430.32.png)
-$ M = 2300kg $
+$M = 2300kg$
 
-$ V = 100\frac{km}{h}$
+$V = 100\frac{km}{h}$
 
-$ s = 40m $
+$s = 40m$
 
-$ K = \frac{1}{2}m*V^{2} = \frac{1}{2}*2300*(27.8\frac{m}{s})^{2} = 887000J $
+$K = \frac{1}{2}m*V^{2} = \frac{1}{2}*2300*(27.8\frac{m}{s})^{2} = 887000J$
 
-$ F * s = K = 887000J $
+$F * s = K = 887000J$
 
-$ L = \frac{887000J}{40m} = 22 * 10^{3}N $
+$L = \frac{887000J}{40m} = 22 * 10^{3}N$
 
 #### Esercizio 33
 ![Esercizio](./media/430.33.1.png)
 $$
-K = \frac{1}{2}(65m/s)^2*0.032kg = 67.6J
+K = \frac{1}{2}(65m/s)^2*0.032kg = 67.6J \approx 68J
 $$
 ![Esercizio](media/430.33.2.png)
 
@@ -165,5 +165,5 @@ $$
 quindi 
 
 $$
-\frac{68J}{0.36m} = 187.7N
+\frac{68J}{0.36m} = 187.7N \approx 190N
 $$
