@@ -386,3 +386,53 @@ Troviamo il punto medio tra F e G con la solita formula $M(\frac{x_f + x_g}{2}; 
 $$
 M(-\frac{m+2}{2m};\frac{m+2}{2})-\frac{n+2}{2n}=\frac{3}{2} \rightarrow -\frac{n+2}{n} = 3 \rightarrow -n-2 = 3n \rightarrow 4n = -2 \rightarrow n = -\frac{1}{2}
 $$
+
+### Pagina 889
+#### Esercizio 421
+
+Formula: $d=\frac{|ax_0+by_0+c|}{\sqrt{a^2+b^2}}$
+
+![Esercizio](./algebra/889.421.png)
+
+$$
+\frac{2x-\frac{3}{2}y-2}{\sqrt{2^2+(-\frac{3}{2})^2}} = \frac{6-0-2}{\sqrt{4+\frac{9}{4}}} = \frac{4}{\frac{5}{2}} = \frac{8}{5}
+$$
+
+#### Esercizio 422
+![Esercizio](./algebra/889.422.png)
+
+$$
+r: -8x-6y-1=0 \rightarrow 8x+6y+1=0
+$$
+$$
+\frac{|8*(-2)+6*4+1|}{\sqrt{(-8)^2+6^2}}
+$$
+$$
+\frac{| -16 +24 + 1 |}{\sqrt{64 + 36}}
+$$
+$$
+\frac{9}{\sqrt{100}}
+$$
+$$
+\frac{9}{10}
+$$
+
+#### Esercizio 429
+![Esercizio](./algebra/889.429.png)
+$$
+-2y + x + 1 = 0
+$$
+$$
+\frac{|-3*1 + (-2)*(-1) + 1|}{\sqrt{1 + (-2)^2}}
+$$
+$$
+\frac{|-3 + 2 + 1|}{\sqrt{5}}
+$$
+$$
+\frac{0}{\sqrt{5}}
+$$
+Il punto è sulla retta
+
+#### Esercizio 4433
+![Esercizio](./algebra/889.433.png)
+
