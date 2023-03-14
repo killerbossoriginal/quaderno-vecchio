@@ -93,13 +93,16 @@ Passaggi per trovarla:
 Tipi:
 1. Copulativa
    1. E
-   2. Nè (!richiede una negazione nella reggente)
+   2. Nè (! richiede una negazione nella reggente)
+   3. Nonché
+   4. E anche
 2. Avversativa
    1. Ma
    2. Però
    3. Tuttavia
    4. Non di meno
    5. Bensì
+   6. Eppure
 3. Sostitutiva (=>avversativa)
    1. anzi
 4. Disgiuntiva
@@ -113,12 +116,37 @@ Tipi:
    1. Cioé
    2. Ossia
    3. Infatti
+   4. Ovvero
+   5. Vale a dire
 7. Correlativa
    1. sia ... sia ...
    2. o ... o ...
    3. (etc)
 
+### Le subordinate
+1. Causale
+   1. Perchè
+   2. Dato che
+   3. Visto che
+   4. Poiché
+2. Temporale
+   1. Finchè
+   2. Mentre
+3. Concessiva
+   1. Anche se
+   2. Nonostante
+4. Ipotetica / Condizionale
+   1. Se
+5. Relativa
+   1. Che
+
+
 ### Esercizi
+#### Esercizio 31 pag 615
+I risvegli di Clara
+Férula **era** la prima a **svegliarsi**, perché le **era** rimasta quest’abitudine di **alzarsi** all’alba dall’epoca in cui **vegliava** accanto alla madre malata, ma **lasciava dormire** sua cognata sino a tardi. A metà mattina le **portava** personalmente la colazione a letto, **apriva** le tende di seta azzurra per far entrare il sole attraverso i vetri, **riempiva** la vasca da bagno di porcellana francese dipinta a ninfee, mentre Clara aveva il tempo di **scrollarsi** di dosso la sonnolenza **salutando** a turno gli spiriti presenti, **avvicinandosi** il vassoio e **spalmando** le fette tostate con la cioccolata densa. Poi la **tirava** fuori del letto **accarezzandola** con gesti da madre e **riferendole** le notizie piacevoli del giornale, che ogni giorno **erano** meno, sicché **doveva riempire** le lacune con pettegolezzi sui vicini, dettagli domestici e aneddoti **inventati** che Clara **trovava** molto carini e cinque minuti dopo non **ricordava** più, per cui **era possibile raccontarle** le stesse cose diverse volte e lei si **divertiva** come se **fosse stata** la prima.
+(I. Allende, La casa degli spiriti, Feltrinelli, Milano 1982)
+
 #### Esercizio 58 pag 627
 1. **A te io canto una canzone,**// perché non ho altro,// niente di meglio da offrirti. (Jovanotti)
 2. **Tu sei stanco di tutto** // e io non so cosa dire. (Noemi)

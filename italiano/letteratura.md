@@ -182,7 +182,7 @@ Questa poesia la scrive poco prima dell'inizio della prima guerra mondiale (infa
 
 ## A. Manzoni
 ### I Promessi Sposi
-[Testo](./i-promessi-sposi.md)
+[Testo](./i-promessi-sposi/index.md)
 
 ## Umberto Saba
 ### Donna
