@@ -37,6 +37,13 @@ E' un poligono con infiniti angoli e lati, tutti equidistanti dal centro.
 Il raggio è il segmento che va dal centro alla circonferenza
 Il diametro (2raggio) è il segmento passante per il centro che tocca in 2 punti la circonferenza
 
+$$
+\text{circonferenza} = 2 \pi r
+$$
+$$
+\text{area} = \pi r^2
+
+$$
 ## 3D
 ### Sfera
 #### Volume
