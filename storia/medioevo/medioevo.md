@@ -60,3 +60,11 @@ Clodovero (re) sceglie di far convertire Clodovero e i Franchi cristiani cattoli
 Erano strettamente legati alla chiesa, diventano cattolici (molte popolazion barbariche diventano ariane).
 
 Iniziano la riconquista di alcune delle terre dell'impero romano d'occidente sotto richiesta del papa, tra cui l'italia.
+
+### Il Monachesimo
+#### Monastero
+##### Lo scriptorium
+Erano dei posti contenuti nei monasteri, dove c'erano monaci addetti a:
+- Creare la pergamena e in futuro la carta per i grandi libri (codici)
+- Scrivere i codici (Opere della chiesa e opere classiche latine (Le opere greche vennero reintrodotte dagli arabi in spagna e dai culturati che scappavano dall'impero bizantino quando veniva conquistato il territorio dagli arabi))
+- (non ovunque) Creare liste di tutti le opere dei monasteri
