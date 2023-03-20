@@ -1,7 +1,9 @@
 # Informatica
 [Indietro](./../index.md)
+## Linguaggi di formattazione dell' HyperTesto
+- [HTML](./html/index.md)
 ## Linguaggi di programmazione
-- [C++](./programming/cpp.md)
+- [C++](./cpp/cpp.md)
 
 ## Definizioni
 - Programmazione imperativa
