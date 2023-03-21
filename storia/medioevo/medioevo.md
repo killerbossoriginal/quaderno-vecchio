@@ -68,3 +68,29 @@ Erano dei posti contenuti nei monasteri, dove c'erano monaci addetti a:
 - Creare la pergamena e in futuro la carta per i grandi libri (codici)
 - Scrivere i codici (Opere della chiesa e opere classiche latine (Le opere greche vennero reintrodotte dagli arabi in spagna e dai culturati che scappavano dall'impero bizantino quando veniva conquistato il territorio dagli arabi))
 - (non ovunque) Creare liste di tutti le opere dei monasteri
+
+### Gli Arabi
+#### Periodo preislamico
+Data la posizione geografica "centrale" tra i grandi imperi, a ovest l'impero romano e a nordest l'impero partico, ma già dall'impero di Alessandro, e i mari, sono favoriti ai commerci.
+Erano molto commerciate anche le spezie, tra cui l'incenso, e aromi, molto ricercati per l'alimentazione.
+
+L'arido entroterra era abituato dai beduini, tribu' nomadi "alla ricerca delle oasi". Erano pastori e cavalcavano i dromedari.
+
+![Arabia Preislamica](./media/arabia-preislamica.png)
+
+##### La religione
+Gli arabi erano politeisti, pagani. Adoravano divinità legate alla natura. Spesso adoravano degli idoli, tra cui uno che ancora adesso è adorat: la pietra nera.
+
+Erano diffuse anche religioni esterne, come l'ebraismo e il cristianesimo.
+
+La ka'ba è un santuario a La Mecca, dove è contenuta la pietra nera (meteorite, che si pensava mandato dal dio). La leggenda vuole che il santuario sia stato fatto dal patriarca ebraico Abramo.
+
+#### La nascita dell'islam
+L'islam è una religione derivata dall'ebraismo. Prende come penultimo profeta Gesu'. L'ultimo profeta è appunto Maometto, fondatore dell'islam.
+
+##### Maometto
+Maometto apparteneva alla tribu' che governava la mecca, orfano, si sposa con una vedova.
+Quando aveva circa 40 anni iniziò ad avere visioni. Poi nel 610 ebbe la rivelazione di Dio tramite l'arcangelo Gabriele.
+
+#### L'islam
+La predicazione dell'islam è un movimento eversivo, confronto a quelli attuali, appunto indolatri e politeisti.
