@@ -139,6 +139,12 @@ Tipi:
    1. Se
 5. Relativa
    1. Che
+   2. Sulla quale
+   3. Nella quale
+   4. Per la quale
+6. Consecutiva
+   1. Così che
+   2. Tale che
 
 
 ### Esercizi
