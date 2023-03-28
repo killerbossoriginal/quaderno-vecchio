@@ -9,7 +9,7 @@
 | Present         | I Live       | I am living        |
 | Past            | I lived      | I was living       |
 | Present Perfect | I have lived | I have been living |
-| Past Perfect    | I had lived  |I had been living   |
+| Past Perfect    | I had lived  | I had been living  |
 
 ### Direct Speach / Reported Speach
 (// discorso diretto/indiretto)
