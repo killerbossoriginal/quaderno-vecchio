@@ -4,6 +4,9 @@
 - [HTML](./html/index.md)
 ## Linguaggi di programmazione
 - [C++](./cpp/cpp.md)
+## Programmi
+- NPM
+- GIT
 
 ## Definizioni
 - Programmazione imperativa
