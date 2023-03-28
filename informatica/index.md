@@ -4,6 +4,10 @@
 - [HTML](./html/index.md)
 ## Linguaggi di programmazione
 - [C++](./cpp/cpp.md)
+- Java
+- JavaScript
+## Runtimes
+- NodeJS
 ## Programmi
 - NPM
 - GIT
