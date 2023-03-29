@@ -5,9 +5,9 @@
 ## Linguaggi di programmazione
 - [C++](./cpp/cpp.md)
 - Java
-- JavaScript
+- [Javascript](./javascript/index.md)
 ## Runtimes
-- [NodeJS](./nodejs/index.md)
+- NodeJS
 ## Programmi
 - NPM
 - GIT
