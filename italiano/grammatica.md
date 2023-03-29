@@ -236,3 +236,25 @@ Ha dimenticato -> ha trovato
       |\-> serviva
       \-> ridendo
 ```
+
+#### Es 67 pag 629
+```txt
+Guadagnava -> Aveva raggiunto
+/---------------/
+\-> Si era proposto
+```
+
+```txt
+Gli sembrava mediocre ----> gi sembrava nuovo
+|                       \-> gli sembrava originiale
+\-> che scriveva
+```
+
+```txt
+Si chiamava -> aveva
+```
+
+```txt
+Viveva -> cercava
+\-> Facendo  \-> Trovava
+```
