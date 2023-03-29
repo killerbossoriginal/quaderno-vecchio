@@ -10,6 +10,7 @@
   - [Radicali Doppi](#radicali-doppi)
   - [Piano Cartesiano](#piano-cartesiano)
   - [Rette](#rette)
+  - [Equazioni](#equazioni)
   - [Esercizi](#esercizi)
     - [Pagina 717](#pagina-717)
       - [Esercizio 459](#esercizio-459)
@@ -45,6 +46,34 @@
 ## Rette
 $ y = mx + q $
 con $m$ come inclinazione
+
+## Equazioni
+### Equazioni di 2 grado
+#### La formula risolutiva
+$$
+x_{1,2}=\frac{-B \pm \sqrt{B^2-4AC}}{2A}
+$$
+
+#### Pura
+Le equazioni pure sono per esempio:
+$$
+ax^{2}+c=0
+$$
+ovvero quando $bx = 0$
+#### Spuria
+Le equazioni spurie sono per esempio:
+$$
+ax^{2} + bx = 0
+$$
+Ovvero dove $c = 0$
+
+#### Monomia
+Le equazioni monomie sono per esempio:
+$$
+ax^{2} = 0
+$$
+Ovvero dove $b = 0 \land c = 0$
+### Equazioni parametriche
 
 ## Esercizi
 
@@ -433,6 +462,18 @@ $$
 $$
 Il punto è sulla retta
 
-#### Esercizio 4433
+#### Esercizio 443
 ![Esercizio](./algebra/889.433.png)
 
+### Pagina 948
+#### Esercizio 411
+
+$$
+ax^2-7(x+a)=a^2x^2
+$$
+$$
+ax^2-7(x+a)-a^2x^2 = 0
+$$
+$$
+x_{1,2}=\frac{-B \pm \sqrt{B^2-4AC}}{2A}
+$$
