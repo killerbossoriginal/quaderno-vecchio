@@ -25,29 +25,29 @@
 
 ### Grandezze
 
-- 10^-16 = Quark
-- 10^-15 = Neutroni
-- 10^-14 = Nucleo atomico
-- 10^-13 - 10^-10 = Atomo
-- 10^-9 = Molecola d’acqua
-- 10^-8 = Molecola del DNA
-- 10^-7 = Virus
-- 10^-6 = Cromosoma
-- 10^-5 = Cellula
-- 10^-4 - 10^-3 = Occhio di mosca
-- 10^-2 - 10^2 = Tutto ciò che si vede ad occhio
-- 10^3 = Pezzo di città
-- 10^4 = Città
-- 10^5 = Una regione
-- 10^6 = Una nazione
-- 10^7 - 10^8= Pianeta
-- 10^9 = Stella
-- 10^11 = Coda di cometa
-- 10^13 = Sistema solare
-- 10^16 = 1 anno luce
-- 10^18 = Ammasso di stelle
-- 10^21 = Galassia
-- 10^25 = Mappa delle galassie esterne
+- $10^{-16}$ = Quark
+- $10^{-15}$ = Neutroni
+- $10^{-14}$ = Nucleo atomico
+- $10^{-13}$ - 10^-10 = Atomo
+- $10^{-9}$ = Molecola d’acqua
+- $10^{-8}$ = Molecola del DNA
+- $10^{-7}$ = Virus
+- $10^{-6}$ = Cromosoma
+- $10^{-5}$ = Cellula
+- $10^{-4}$ - 10^-3 = Occhio di mosca
+- $10^{-2}$ - 10^2 = Tutto ciò che si vede ad occhio
+- $10^{3}$ = Pezzo di città
+- $10^{4}$ = Città
+- $10^{5}$ = Una regione
+- $10^{6}$ = Una nazione
+- $10^{7}$ - 10^8= Pianeta
+- $10^{9}$ = Stella
+- $10^{11}$ = Coda di cometa
+- $10^{13}$ = Sistema solare
+- $10^{16}$ = 1 anno luce
+- $10^{18}$ = Ammasso di stelle
+- $10^{21}$ = Galassia
+- $10^{25}$ = Mappa delle galassie esterne
 
 ### Energia
 #### Energia Cinetica
@@ -55,6 +55,19 @@ $$K=\frac{1}{2}mv^{2}$$
 Si misura in $J$ oule
 
 $$K_{\text{finale}}-K_{\text{iniziale}} = L \text{ (Lavoro)}$$
+
+#### Lavoro
+$ L = f * s * cos(\alpha) $
+
+#### Potenza
+$ P = E * \Delta t^{-1}$
+
+#### Energia potenziale
+##### Gravitazionale
+$ U = m * h * g $
+##### Elastica
+$ U_{el} = k * x * 2^{-1} $
+
 ## Esercizi
 
 - [Fisica](#fisica)
