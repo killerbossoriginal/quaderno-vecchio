@@ -220,6 +220,15 @@ Ella said ***she hadn't seen them*** since Monday.
 Sam said ***he must get*** in touch with them and he asked Ella ***what did they did*** after school.
 Ella replied that ***she wasn't sure*** but she thought that Jack ***was been training*** at the gym lately.
 Sam said ***he would try*** the gym and he asked Ella ***if he could drive he*** there.
+
+### Writing an essay
+#### Learning a foreign language helps students develop a set of important skills. Why should foreign languages be taught in schools?
+- new cultures
+- employment
+- .... your opinion
+
+Learning foreign languages (especially popular ones) is important because you would be able to communicate with people in foreign countries.
+
 ## Lexic
 ### It-En
 #### T
@@ -227,3 +236,9 @@ Sam said ***he would try*** the gym and he asked Ella ***if he could drive he***
 ### En-It
 ### R
 - remote: telecomando
+
+## Writing an essay
+- Intro
+- For each point explain your ideas and write pros/cons
+- Write your suggestion about all
+- Your opinion
