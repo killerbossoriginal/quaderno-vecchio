@@ -93,7 +93,7 @@ Sempre sotto Agilulfo la capitale longobarda passò da Monza a Milano
 
 #### La religione longobarda
 
-Sotto Autari, la moglie Teodolinda, principessa bavara, inizià a convertire i Longobardi dal cattolicesimo al cristianesimo.
+Sotto Autari, la moglie Teodolinda, principessa bavara, inizià a convertire i Longobardi dall'arianesimo al cattolicesimo.
 
 #### Le leggi
 
