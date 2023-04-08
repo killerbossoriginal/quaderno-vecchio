@@ -306,14 +306,17 @@ Viveva -> cercava
 2. - 
 ```txt
 lo gratificarono ------ non trovò
-\- aveva potuto
+\- aveva potuto imparare
 ```
 
 3. - 
 ```txt
 Entrò ----- si accorse
 \- c'erano stati
-    \- che avevano scassinato la cassaforte ------ e avevano sottratto
+    \- che avevano scassinato ---\
+                                 |
+    /----------------------------/
+    \----- e avevano sottratto
                                                       \- vi era custodito
 ```
 4. - 

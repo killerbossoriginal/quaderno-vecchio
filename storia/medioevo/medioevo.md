@@ -210,3 +210,25 @@ Quando aveva circa 40 anni iniziò ad avere visioni. Poi nel 610 ebbe la rivelaz
 #### L'islam
 
 La predicazione dell'islam è un movimento eversivo, confronto a quelli attuali, appunto indolatri e politeisti.
+
+##### i 5 pilastri dell'islam
+
+La umma è l'insieme di tutti i credenti
+
+1. la professione di fede
+2. la preghiera
+3. il digiuno
+4. l'elemosina
+5. il pellegrinaggio alla mecca
+
+Lo jihad è l'impegno di tutti nella diffusione dell'islam
+
+#### I successori di Maometto
+
+I primi 4 califfi sono i suoi "seguaci", sono chiamati ben guidati.
+
+Con la deposizione e l'assassinio di Ali, genero di Maometto, si separano Sunniti e Sciiti.
+
+I sunniti sono la maggior parte.
+
+Poi iniziano le dinastie: Omayyaddi con capitale a Damasco, Abbasidi con capitale a Baghdad
