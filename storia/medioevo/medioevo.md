@@ -79,7 +79,7 @@ Si suddivise il territorio in longobardia maior (poi Italianizzata con il tempo 
 
 Alla morte per congiura di Alboino il regno (oltre al breve perido di Clefi) rimase senza un re.
 
-Gli imperatori dell'impero bizantino, assieme al papa, chiesero aiuto ai franchi per rimuovere dall'Italia i longobardi, i duchi si misero d'accordo per rieleggere un re, a cui regalarono metà dei loro territori, divenne demanio reale. Il sovrano si garantiva così una base economica sufficiente per governare e reclutare soldati.
+Gli imperatori dell'impero bizantino, chiesero aiuto ai franchi per rimuovere dall'Italia i longobardi, i duchi si misero d'accordo per rieleggere un re, a cui regalarono metà dei loro territori, divenne demanio reale. Il sovrano si garantiva così una base economica sufficiente per governare e reclutare soldati.
 
 I gastaldi come detto prima erano persone che amministravano il demanio.
 
