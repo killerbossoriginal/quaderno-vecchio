@@ -4,12 +4,12 @@
 
 ## Analisi Logica
 
-
-
 ## Analisi del periodo
 
 ### Proposizioni indipendenti
+
 Tipi:
+
 - Enunciativa
 - Interrogativa diretta
 - Esclamativa (esclama qualcosa)
@@ -17,13 +17,17 @@ Tipi:
 - Deisderativa (Esprime un desiderio, Oh, se arrivasse!)
 
 ### La Principale
+
 Passaggi per trovarla:
+
 1. Escludi i verbi indefiniti
 2. Escludi tutti i verbi di frasi che iniziano con congiunzioni
 3. Controlla che non sia una coordinata per asindoto (tramite punteggiatura)
 
 ### Le Coordinate
+
 Tipi:
+
 1. Copulativa
    1. E
    2. Nè (! richiede una negazione nella reggente)
@@ -57,6 +61,25 @@ Tipi:
    3. (etc)
 
 ### Le subordinate
+
+#### Soggettiva
+
+Se nel predicato della reggente (/!\ che può anche non essere la principale) non è presente il soggetto (e il verbo è impersonale), una proposizione seguente è soggettiva.
+
+Es: `Mi pare di sognare`
+
+Es: `Si dice che l'astice sia come l'aragosta`
+
+Es:
+
+```txt
+                   /---> la tua partecipazione 
+E' indispensabile -
+                   \---> che tu partecipi
+```
+
+#### Altre
+
 1. Causale
    1. Perchè
    2. Dato che
@@ -161,24 +184,29 @@ Tipi:
     - di sollievo: specificazione
 
 ## Esercizi di analisi del periodo
+
 #### Esercizio 31 pag 615
+
 I risvegli di Clara
 Férula **era** la prima a **svegliarsi**, perché le **era** rimasta quest’abitudine di **alzarsi** all’alba dall’epoca in cui **vegliava** accanto alla madre malata, ma **lasciava dormire** sua cognata sino a tardi. A metà mattina le **portava** personalmente la colazione a letto, **apriva** le tende di seta azzurra per far entrare il sole attraverso i vetri, **riempiva** la vasca da bagno di porcellana francese dipinta a ninfee, mentre Clara aveva il tempo di **scrollarsi** di dosso la sonnolenza **salutando** a turno gli spiriti presenti, **avvicinandosi** il vassoio e **spalmando** le fette tostate con la cioccolata densa. Poi la **tirava** fuori del letto **accarezzandola** con gesti da madre e **riferendole** le notizie piacevoli del giornale, che ogni giorno **erano** meno, sicché **doveva riempire** le lacune con pettegolezzi sui vicini, dettagli domestici e aneddoti **inventati** che Clara **trovava** molto carini e cinque minuti dopo non **ricordava** più, per cui **era possibile raccontarle** le stesse cose diverse volte e lei si **divertiva** come se **fosse stata** la prima.
 (I. Allende, La casa degli spiriti, Feltrinelli, Milano 1982)
 
 #### Esercizio 58 pag 627
+
 1. **A te io canto una canzone,**// perché non ho altro,// niente di meglio da offrirti. (Jovanotti)
 2. **Tu sei stanco di tutto** // e io non so cosa dire. (Noemi)
 3. **Volammo davvero sopra le case, oltre i cancelli, gli orti, le strade,** // poi scivolammo tra valli fiorite // dove all'ulivo si abbraccia la vite. (F. De Andrè)
 4. **Vergognandomi, ma solo un poco appena, misi un disco nel juke-box,** // per sentirmi quasi in una scena di un film del vecchio della Fox. (F. Guccini)
 
 #### Esercizio 60 pag 627
+
 1. Partiremo in aereo,/ <u>nonostostante Lucia non ami volare</u> / <u>*perché soffre il mal d'aria.*</u>.
 2. <u>Dato che hanno percorso quasi 90 km in bicicletta,</u>/ Agata e Jimmi sono molto stanchi,/ <u>*dunque non usciranno nemmeno a cena*</u>.
 3. Pioveva/ <u>e il cielo era scuro</u>,/ <u>*eppure l'uomo uscì ugualmente/ perché non poteva in nessun caso perdere il treno.*</u>
 4. Luca ti sta cercando,/ <u>*infatti mi ha chiesto se ti avevo visto.*</u>
 
 #### Esercizio 61 pag 628
+
 1. -
 2. A proposito delle fonti rinnovabili di energia, tra le biomasse ci sono rifiuti urbani e scarti forestali.
 3. Anche le malattie infettive mietono vittime nel terzo mondo, dove, la percentuale di bambini vaccinati è scarsa.
@@ -189,56 +217,76 @@ Férula **era** la prima a **svegliarsi**, perché le **era** rimasta quest’ab
 8. E' un avvenimento insolito che una coppia di cicogne ha nidificato sul campanile.
 
 #### Esercizio 66 pag 629
+
 1. -
+
 ```txt
 Ha impiegato -> mi è sembrata
  |\-> accettare
  \-> ho chiesto
 ```
+
 2. -
+
 ```txt
 Spiegami
  \-> è spesso considerato
 ```
+
 3. -
+
 ```txt
 Ricordatevi
  |\-> uscite
  \-> spegnere
       \-> evitare
 ```
+
 4. -
+
 ```txt
 Porterei
  |\-> avesse
  \-> mostrargli
 ```
+
 5. -
+
 ```txt
 E' -> costutuisce -> può classificare
  \-> si divide
 ```
-6. - 
+
+6. -
+
 ```txt
 è stato contattato
 \-> vorrebbe pubblicare -> ambientato
 ```
-7. - 
+
+7. -
+
 ```txt
 si riposano -> è insopportabile -> attendono
 \-> impedire
 ```
-8. - 
+
+8. -
+
 ```txt
 Ho scoperto
 \-> è bella -> era stata descritta
                 \-> si erano recati
                      \-> per festeggiare
 ```
-9. - 
+
+9. -
+
 ```txt
 ```
-10. - 
+
+10. -
+
 ```txt
 Ha dimenticato -> ha trovato
  /-----------------/|
@@ -251,6 +299,7 @@ Ha dimenticato -> ha trovato
 ```
 
 #### Es 67 pag 629
+
 ```txt
 Guadagnava -> Aveva raggiunto
 /---------------/
@@ -273,6 +322,7 @@ Viveva -> cercava
 ```
 
 #### Pagina 632
+
 ##### Esercizio 1
 
 1. Esclamativa
@@ -289,7 +339,7 @@ Viveva -> cercava
 2. **Andai al cinema** //e mi addormentai quasi subito.
 3. Guardando le fotografie delle elementari // **riconobbe molti suoi compagni di classe**.
 4. Quando sono troppo stanco // **non dormo** // e, quindi, sono nervoso.
-5. **II gioielliere,**/* dopo che ebbe subito diverse rapine ,*/ **fece blindare le vetrine.**
+5. **II gioielliere,**/*dopo che ebbe subito diverse rapine ,*/ **fece blindare le vetrine.**
 6. **Vado al bar** // e mi mangio un bel panino.
 7. **La giornata era piovosa**//, ma al pomeriggio il tempo migliorò notevolmente.
 8. Se non studiate, // **non sarete promossi**.
@@ -300,16 +350,19 @@ Viveva -> cercava
 2. **I miei amici sono andati in vacanza in Grecia,** -benché faccia molto caldo e siano scoppiati diversi incendi.-
 3. **II mio gatto è un soriano rosso,** -che dorme tutto il giorno- "e si sveglia solo per mangiare."
 4. **Nel Rinascimento Firenze era una delle cittå piu importanti del mondo,** -perché era ricca e fiorente- "e ospitava famosi artisti."
-5. **II libro** -che ho letto,-/* -ma che ora non ho qui,- */ **è di un giovane e valente studioso.**
+5. **II libro** -che ho letto,-/*-ma che ora non ho qui,-*/ **è di un giovane e valente studioso.**
 
 ##### Esercizio 5
-2. - 
+
+2. -
+
 ```txt
 lo gratificarono ------ non trovò
 \- aveva potuto imparare
 ```
 
-3. - 
+3. -
+
 ```txt
 Entrò ----- si accorse
 \- c'erano stati
@@ -319,13 +372,17 @@ Entrò ----- si accorse
     \----- e avevano sottratto
                                                       \- vi era custodito
 ```
-4. - 
+
+4. -
+
 ```txt
 dice ---- comportarti
 |           \- per farti apprezzare
 \- che devi andartene
 ```
-5. - 
+
+5. -
+
 ```txt
 svegliata ---- ho perso il treno
 |               \- che era
@@ -333,6 +390,7 @@ svegliata ---- ho perso il treno
 ```
 
 ##### Esercizio 7
+
 1. pertanto, conclusiva
 2. e, copulativa
 3. e, copulativa
@@ -343,6 +401,7 @@ svegliata ---- ho perso il treno
 8. altrimenti, disgiuntiva
 
 ##### Esercizio 8
+
 1. e, c
 2. o, c
 3. quando, s
@@ -351,6 +410,7 @@ svegliata ---- ho perso il treno
 6. ma, c
 7. e, c
 
-# Da chiedere:
+# Da chiedere
+
   1. La risoluzione dell'esercizio 3 pag 632 nella parte 5
   2. Nella frase "è di un giovane e valente" l'espressione "e valente" va divisa
